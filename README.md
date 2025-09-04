@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 | 2 | Add Two Numbers | [Java](0001-1000/2_add_two_numbers.java) |
 | 3 | Longest Substring Without Repeating Characters | [Java](0001-1000/3_longest_substring_without_repeating_characters.java) |
 
+[🔼 Back to Top](#leetcode-solutions-number-wise)
 ---
 
 ## 1001-2000
@@ -35,6 +36,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 |---|-------|----------|
 | 1001 | Grid Illumination | [Java](1001-2000/1001_grid_illumination.java) |
 
+[🔼 Back to Top](#leetcode-solutions-number-wise)
 ---
 
 ## 2001-3000
@@ -42,6 +44,7 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 |---|-------|----------|
 | 2001 | Number of Pairs of Interchangeable Rectangles | [Java](2001-3000/2001_number_of_pairs_of_interchangeable_rectangles.java) |
 
+[🔼 Back to Top](#leetcode-solutions-number-wise)
 ---
 
 ## 3001-4000
@@ -49,3 +52,4 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 |---|-------|----------|
 | 3516 | Find Closest Person | [Java](3001-4000/3516_find_closest_person.java) |
 
+[🔼 Back to Top](#leetcode-solutions-number-wise)
