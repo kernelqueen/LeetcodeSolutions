@@ -1,7 +1,25 @@
+ /*------------------ Approach 1 (O(n)) ----------------------*/
 class Solution {
     public int[] getNoZeroIntegers(int n) {
         
-        // Approach 2
+        for(int i=1; i<n; i++) {
+            int a = i;
+            int b = n-i;
+            if(!String.valueOf(a).contains("0") && !String.valueOf(b).contains("0")) {
+                return new int[]{a,b};
+            }
+        }
+
+        return new int[0];
+
+    }
+}
+ /*------------------ Approach 2 (logn) ----------------------*/
+
+
+class Solution {
+    public int[] getNoZeroIntegers(int n) {
+        
         int a = 0, b = 0;
 
         int multiple = 1;
