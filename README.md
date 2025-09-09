@@ -24,9 +24,9 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 ## 0001-1000
 | # | Title | Solution |
 |---|-------|----------|
-| 1 | Two Sum | [Java](0001-1000/1_two_sum.java) |
-| 2 | Add Two Numbers | [Java](0001-1000/2_add_two_numbers.java) |
-| 3 | Longest Substring Without Repeating Characters | [Java](0001-1000/3_longest_substring_without_repeating_characters.java) |
+| 36 | Valid Sudoku | [Java](0001-1000/36_valid_sudoku.java) |
+| 37 | Sudoku Solver | [Java](0001-1000/37_sudoku_solver.java) |
+| 498 | Digonal Traverse | [Java](0001-1000/498_diagonal_traverse.java) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 ---
@@ -34,7 +34,10 @@ This repository contains my solutions to LeetCode problems, organized **by probl
 ## 1001-2000
 | # | Title | Solution |
 |---|-------|----------|
-| 1001 | Grid Illumination | [Java](1001-2000/1001_grid_illumination.java) |
+| 1277 | Count Square Submatrices with all Ones | [Java](1001-2000/1277_count_square_submatrices_with_all_ones.java) |
+| 1304 | Find N Unique Integers Sum up to Zero | [Java](1001-2000/1304_find_n_unique_integers_sum_up_to_zero.java) |
+| 498 | Digonal Traverse | [Java](0001-1000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) |
+| 498 | Digonal Traverse | [Java](0001-1000/1493_longest_subarray_of_1s_after_deleting_one_element.javaa) |
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
 ---
