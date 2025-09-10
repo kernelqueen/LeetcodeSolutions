@@ -40,6 +40,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1317 | Convert Integer To The Sum Of Two No Zero Integers | [Java](1001-2000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) |
 | 1493 | Longest Subarray Of 1S After Deleting One Element | [Java](1001-2000/1493_longest_subarray_of_1s_after_deleting_one_element.java) |
 | 1504 | Count Submatrices With All Ones | [Java](1001-2000/1504_count_submatrices_with_all_ones.java) |
+| 1733 | Minimum Number Of People To Teach | [Java](1001-2000/1733_minimum_number_of_people_to_teach.java) |
 | 1792 | Maximum Average Pass Ratio | [Java](1001-2000/1792_maximum_average_pass_ratio.java) |
 
 
