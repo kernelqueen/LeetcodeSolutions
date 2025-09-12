@@ -72,6 +72,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3027 | Find The Number Of Ways To Place People 2 | [Java](3001-4000/3027_find_the_number_of_ways_to_place_people_2.java) |
 | 3195 | Find The Minimum Area To Cover All Ones 1 | [Java](3001-4000/3195_find_the_minimum_area_to_cover_all_ones_1.java) |
 | 3197 | Find The Minimum Area To Cover All Ones 2 | [Java](3001-4000/3197_find_the_minimum_area_to_cover_all_ones_2.java) |
+| 3227 | Vowels Game In A String | [Java](3001-4000/3227_vowels_game_in_a_string.java) |
 | 3446 | Sort Matrix By Diagonals | [Java](3001-4000/3446_sort_matrix_by_diagonals.java) |
 | 3459 | Length Of Longest Vshaped Diagonal Segment | [Java](3001-4000/3459_length_of_longest_vshaped_diagonal_segment.java) |
 | 3495 | Minimum Operations To Make Array Elements Zero | [Java](3001-4000/3495_minimum_operations_to_make_array_elements_zero.java) |
