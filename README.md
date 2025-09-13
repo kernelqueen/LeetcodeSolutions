@@ -81,6 +81,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3674 | Minimum Operations To Equalize Array | [Java](3001-4000/3674_minimum_operations_to_equalize_array.java) |
 | 3675 | Minimum Operations To Transform String | [Java](3001-4000/3675_minimum_operations_to_transform_string.java) |
 | 3676 | Count Bowl Subarrays | [Java](3001-4000/3676_count_bowl_subarrays.java) |
+| 3677 | Count Binary Palindromic Numbers | [Java](3001-4000/3677_count_binary_palindromic_numbers.java) |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
