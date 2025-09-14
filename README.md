@@ -25,6 +25,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 36 | Valid Sudoku | [Java](0001-1000/36_valid_sudoku.java) |
 | 37 | Sudoku Solver | [Java](0001-1000/37_sudoku_solver.java) |
 | 498 | Diagonal Traverse | [Java](0001-1000/498_diagonal_traverse.java) |
+| 966 | Vowel Spellchecker | [Java](0001-1000/966_vowel_spellchecker.java) |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
