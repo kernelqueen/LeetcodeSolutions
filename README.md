@@ -43,6 +43,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1504 | Count Submatrices With All Ones | [Java](1001-2000/1504_count_submatrices_with_all_ones.java) |
 | 1733 | Minimum Number Of People To Teach | [Java](1001-2000/1733_minimum_number_of_people_to_teach.java) |
 | 1792 | Maximum Average Pass Ratio | [Java](1001-2000/1792_maximum_average_pass_ratio.java) |
+| 1935 | Maximum Number Of Words You Can Type | [Java](1001-2000/1935_maximum_number_of_words_you_can_type.java) |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
