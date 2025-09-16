@@ -54,6 +54,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 
 | # | Title | Solution |
 |---|-------|----------|
+| 2197 | Replace Non Coprime Numbers In Array | [Java](2001-3000/2197_replace_non_coprime_numbers_in_array.java) |
 | 2327 | Number Of People Aware Of A Secret | [Java](2001-3000/2327_number_of_people_aware_of_a_secret.java) |
 | 2348 | Number Of Zero-Filled Subarrays | [Java](2001-3000/2348_number_of_zero-filled_subarrays.java) |
 | 2749 | Minimum Operations To Make The Integer Zero | [Java](2001-3000/2749_minimum_operations_to_make_the_integer_zero.java) |
