@@ -82,6 +82,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3459 | Length Of Longest Vshaped Diagonal Segment | [Java](3001-4000/3459_length_of_longest_vshaped_diagonal_segment.java) |
 | 3484 | Design Spreadsheet | [Java](3001-4000/3484_design_spreadsheet.java) |
 | 3495 | Minimum Operations To Make Array Elements Zero | [Java](3001-4000/3495_minimum_operations_to_make_array_elements_zero.java) |
+| 3508 | Implement Router | [Java](3001-4000/3508_implement_router.java) |
 | 3516 | Find Closest Person | [Java](3001-4000/3516_find_closest_person.java) |
 | 3541 | Find Most Frequent Vowel And Consonant | [Java](3001-4000/3541_find_most_frequent_vowel_and_consonant.java) |
 | 3674 | Minimum Operations To Equalize Array | [Java](3001-4000/3674_minimum_operations_to_equalize_array.java) |
