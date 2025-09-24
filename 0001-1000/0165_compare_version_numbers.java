@@ -1,6 +1,6 @@
 class Solution {
     public int compareVersion(String version1, String version2) {
-        // O(Math.max(n, m))
+        // T.C. = O(Math.max(n, m))
         // S.C. = O(n+m)
         String arr1[] = version1.split("\\.");
         String arr2[] = version2.split("\\.");
