@@ -24,6 +24,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 |---|-------|----------|
 | 36 | Valid Sudoku | [Java](0001-1000/0036_valid_sudoku.java) |
 | 37 | Sudoku Solver | [Java](0001-1000/0037_sudoku_solver.java) |
+| 120 | Triangle | [Java](0001-1000/0120_triangle.java) |
 | 165 | Compare Version Numbers | [Java](0001-1000/0165_compare_version_numbers.java) |
 | 166 | Fraction To Recurring Decimal | [Java](0001-1000/0166_fraction_to_recurring_decimal.java) |
 | 498 | Diagonal Traverse | [Java](0001-1000/0498_diagonal_traverse.java) |
