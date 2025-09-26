@@ -20,16 +20,16 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 
 ## 0001-1000
 
-| # | Title | Solution |
-|---|-------|----------|
-| 36 | Valid Sudoku | [Java](0001-1000/0036_valid_sudoku.java) |
-| 37 | Sudoku Solver | [Java](0001-1000/0037_sudoku_solver.java) |
-| 120 | Triangle | [Java](0001-1000/0120_triangle.java) |
-| 165 | Compare Version Numbers | [Java](0001-1000/0165_compare_version_numbers.java) |
-| 166 | Fraction To Recurring Decimal | [Java](0001-1000/0166_fraction_to_recurring_decimal.java) |
-| 498 | Diagonal Traverse | [Java](0001-1000/0498_diagonal_traverse.java) |
-| 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) |
-| 611 | Valid Triangle Number | [Java](0001-1000/611_valid_triangle_number.java) |
+| # | Title | Solution | Video |
+|---|-------|----------|-------|
+| 36 | Valid Sudoku | [Java](0001-1000/0036_valid_sudoku.java) | [Watch](https://youtu.be/5XiAi399_Nk) |
+| 37 | Sudoku Solver | [Java](0001-1000/0037_sudoku_solver.java) | [Watch](https://youtu.be/DeDTjUM8iIU) |
+| 120 | Triangle | [Java](0001-1000/0120_triangle.java) | [Watch](https://youtu.be/IT7iwZOznHs) |
+| 165 | Compare Version Numbers | [Java](0001-1000/0165_compare_version_numbers.java) | [Watch](https://youtu.be/Gun-2gvTDo0) |
+| 166 | Fraction To Recurring Decimal | [Java](0001-1000/0166_fraction_to_recurring_decimal.java) | [Watch](https://youtu.be/tosMISGU0k4) |
+| 498 | Diagonal Traverse | [Java](0001-1000/0498_diagonal_traverse.java) | [Watch](https://youtu.be/U4HTd0HZ1Cw) |
+| 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) | [Watch](https://youtu.be/DL133nQ1qJQ) |
+| 611 | Valid Triangle Number | [Java](0001-1000/611_valid_triangle_number.java) | [Watch](https://youtu.be/JibhVrg0pX8) |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
@@ -38,17 +38,17 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 
 ## 1001-2000
 
-| # | Title | Solution |
-|---|-------|----------|
-| 1277 | Count Square Submatrices With All Ones | [Java](1001-2000/1277_count_square_submatrices_with_all_ones.java) |
-| 1304 | Find N Unique Integers Sum Up To Zero | [Java](1001-2000/1304_find_n_unique_integers_sum_up_to_zero.java) |
-| 1317 | Convert Integer To The Sum Of Two No Zero Integers | [Java](1001-2000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) |
-| 1493 | Longest Subarray Of 1S After Deleting One Element | [Java](1001-2000/1493_longest_subarray_of_1s_after_deleting_one_element.java) |
-| 1504 | Count Submatrices With All Ones | [Java](1001-2000/1504_count_submatrices_with_all_ones.java) |
-| 1733 | Minimum Number Of People To Teach | [Java](1001-2000/1733_minimum_number_of_people_to_teach.java) |
-| 1792 | Maximum Average Pass Ratio | [Java](1001-2000/1792_maximum_average_pass_ratio.java) |
-| 1912 | Design Movie Rental System | [Java](1001-2000/1912_design_movie_rental_system.java) |
-| 1935 | Maximum Number Of Words You Can Type | [Java](1001-2000/1935_maximum_number_of_words_you_can_type.java) |
+| # | Title | Solution | Video |
+|---|-------|----------|-------|
+| 1277 | Count Square Submatrices With All Ones | [Java](1001-2000/1277_count_square_submatrices_with_all_ones.java) | [Watch](https://youtu.be/kPsUlWV5vHA) |
+| 1304 | Find N Unique Integers Sum Up To Zero | [Java](1001-2000/1304_find_n_unique_integers_sum_up_to_zero.java) | [Watch](https://youtu.be/VUOYUiX27pI) |
+| 1317 | Convert Integer To The Sum Of Two No Zero Integers | [Java](1001-2000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) | [Watch](https://youtu.be/GTMyUZsjM_I) |
+| 1493 | Longest Subarray Of 1S After Deleting One Element | [Java](1001-2000/1493_longest_subarray_of_1s_after_deleting_one_element.java) | [Watch](https://youtu.be/twOZ7QVMlXM) |
+| 1504 | Count Submatrices With All Ones | [Java](1001-2000/1504_count_submatrices_with_all_ones.java) | [Watch](https://youtu.be/1y5Ihy1IiQg) |
+| 1733 | Minimum Number Of People To Teach | [Java](1001-2000/1733_minimum_number_of_people_to_teach.java) | [Watch](https://youtu.be/5eOBp1wYcqA) |
+| 1792 | Maximum Average Pass Ratio | [Java](1001-2000/1792_maximum_average_pass_ratio.java) | [Watch](https://youtu.be/ba-d6nNSCQ8n) |
+| 1912 | Design Movie Rental System | [Java](1001-2000/1912_design_movie_rental_system.java) | [Watch](https://youtu.be/acwizX111iU) |
+| 1935 | Maximum Number Of Words You Can Type | [Java](1001-2000/1935_maximum_number_of_words_you_can_type.java) | [Watch](https://youtu.be/pPCbpVmE51k) |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
@@ -57,15 +57,15 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 
 ## 2001-3000
 
-| # | Title | Solution |
-|---|-------|----------|
-| 2197 | Replace Non Coprime Numbers In Array | [Java](2001-3000/2197_replace_non_coprime_numbers_in_array.java) |
-| 2327 | Number Of People Aware Of A Secret | [Java](2001-3000/2327_number_of_people_aware_of_a_secret.java) |
-| 2348 | Number Of Zero-Filled Subarrays | [Java](2001-3000/2348_number_of_zero-filled_subarrays.java) |
-| 2353 | Design A Food Rating System | [Java](2001-3000/2353_design_a_food_rating_system.java) |
-| 2749 | Minimum Operations To Make The Integer Zero | [Java](2001-3000/2749_minimum_operations_to_make_the_integer_zero.java) |
-| 2785 | Sort Vowels In A String | [Java](2001-3000/2785_sort_vowels_in_a_string.java) |
-| 3000 | Maximum Area Of Longest Diagonal Rectangle | [Java](2001-3000/3000_maximum_area_of_longest_diagonal_rectangle.java) |
+| # | Title | Solution | Video |
+|---|-------|----------|-------|
+| 2197 | Replace Non Coprime Numbers In Array | [Java](2001-3000/2197_replace_non_coprime_numbers_in_array.java) | [Watch](https://youtu.be/6T3uQCMxFM0) |
+| 2327 | Number Of People Aware Of A Secret | [Java](2001-3000/2327_number_of_people_aware_of_a_secret.java) | [Watch](https://youtu.be/CbHyWK5G4P4) |
+| 2348 | Number Of Zero-Filled Subarrays | [Java](2001-3000/2348_number_of_zero-filled_subarrays.java) | [Watch](https://www.youtube.com/@kernel-queen) |
+| 2353 | Design A Food Rating System | [Java](2001-3000/2353_design_a_food_rating_system.java) | [Watch](https://youtu.be/gPdKb0izHY4) |
+| 2749 | Minimum Operations To Make The Integer Zero | [Java](2001-3000/2749_minimum_operations_to_make_the_integer_zero.java) | [Watch](https://youtu.be/l3eJ2olhL5I) |
+| 2785 | Sort Vowels In A String | [Java](2001-3000/2785_sort_vowels_in_a_string.java) | [Watch](https://youtu.be/TvDuo7U4I1M) |
+| 3000 | Maximum Area Of Longest Diagonal Rectangle | [Java](2001-3000/3000_maximum_area_of_longest_diagonal_rectangle.java) | [Watch](https://youtu.be/fquOOxQJZ9s) |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
@@ -74,29 +74,29 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 
 ## 3001-4000
 
-| # | Title | Solution |
-|---|-------|----------|
-| 3005 | Count Elements With Maximum Frequency | [Java](3001-4000/3005_count_elements_with_maximum_frequency.java) |
-| 3021 | Alice And Bob Playing Flower Game | [Java](3001-4000/3021_alice_and_bob_playing_flower_game.java) |
-| 3025 | Find The Number Of Ways To Place People 1 | [Java](3001-4000/3025_find_the_number_of_ways_to_place_people_1.java) |
-| 3027 | Find The Number Of Ways To Place People 2 | [Java](3001-4000/3027_find_the_number_of_ways_to_place_people_2.java) |
-| 3195 | Find The Minimum Area To Cover All Ones 1 | [Java](3001-4000/3195_find_the_minimum_area_to_cover_all_ones_1.java) |
-| 3197 | Find The Minimum Area To Cover All Ones 2 | [Java](3001-4000/3197_find_the_minimum_area_to_cover_all_ones_2.java) |
-| 3227 | Vowels Game In A String | [Java](3001-4000/3227_vowels_game_in_a_string.java) |
-| 3408 | Design Task Manager | [Java](3001-4000/3408_design_task_manager.java) |
-| 3446 | Sort Matrix By Diagonals | [Java](3001-4000/3446_sort_matrix_by_diagonals.java) |
-| 3459 | Length Of Longest Vshaped Diagonal Segment | [Java](3001-4000/3459_length_of_longest_vshaped_diagonal_segment.java) |
-| 3484 | Design Spreadsheet | [Java](3001-4000/3484_design_spreadsheet.java) |
-| 3495 | Minimum Operations To Make Array Elements Zero | [Java](3001-4000/3495_minimum_operations_to_make_array_elements_zero.java) |
-| 3508 | Implement Router | [Java](3001-4000/3508_implement_router.java) |
-| 3516 | Find Closest Person | [Java](3001-4000/3516_find_closest_person.java) |
-| 3541 | Find Most Frequent Vowel And Consonant | [Java](3001-4000/3541_find_most_frequent_vowel_and_consonant.java) |
-| 3674 | Minimum Operations To Equalize Array | [Java](3001-4000/3674_minimum_operations_to_equalize_array.java) |
-| 3675 | Minimum Operations To Transform String | [Java](3001-4000/3675_minimum_operations_to_transform_string.java) |
-| 3676 | Count Bowl Subarrays | [Java](3001-4000/3676_count_bowl_subarrays.java) |
-| 3677 | Count Binary Palindromic Numbers | [Java](3001-4000/3677_count_binary_palindromic_numbers.java) |
-| 3683 | Earliest Time To Finish One Task | [Java](3001-4000/3683_earliest_time_to_finish_one_task.java) |
-| 3684 | Maximize Sum Of At Most K Distinct Elements | [Java](3001-4000/3684_maximize_sum_of_at_most_k_distinct_elements.java) |
+| # | Title | Solution | Video |
+|---|-------|----------|-------|
+| 3005 | Count Elements With Maximum Frequency | [Java](3001-4000/3005_count_elements_with_maximum_frequency.java) | [Watch](https://youtu.be/7TRzRqawvD4) |
+| 3021 | Alice And Bob Playing Flower Game | [Java](3001-4000/3021_alice_and_bob_playing_flower_game.java) | [Watch](https://youtu.be/LRhUaPMbNyI) |
+| 3025 | Find The Number Of Ways To Place People 1 | [Java](3001-4000/3025_find_the_number_of_ways_to_place_people_1.java) | [Watch](https://youtu.be/BnmGSG2wZo8) |
+| 3027 | Find The Number Of Ways To Place People 2 | [Java](3001-4000/3027_find_the_number_of_ways_to_place_people_2.java) | [Watch](https://youtu.be/uEY7hT8dlmM) |
+| 3195 | Find The Minimum Area To Cover All Ones 1 | [Java](3001-4000/3195_find_the_minimum_area_to_cover_all_ones_1.java) | [Watch](https://youtu.be/jbMrCsU9KeY) |
+| 3197 | Find The Minimum Area To Cover All Ones 2 | [Java](3001-4000/3197_find_the_minimum_area_to_cover_all_ones_2.java) | [Watch](https://youtu.be/X8FnwUP5RL4) |
+| 3227 | Vowels Game In A String | [Java](3001-4000/3227_vowels_game_in_a_string.java) | [Watch](https://youtu.be/u7dE7KmiuGA) |
+| 3408 | Design Task Manager | [Java](3001-4000/3408_design_task_manager.java) | [Watch](https://youtu.be/vVn5-WvzFJU) |
+| 3446 | Sort Matrix By Diagonals | [Java](3001-4000/3446_sort_matrix_by_diagonals.java) | [Watch](https://youtu.be/IetOlGYS4zk) |
+| 3459 | Length Of Longest Vshaped Diagonal Segment | [Java](3001-4000/3459_length_of_longest_vshaped_diagonal_segment.java) | [Watch](https://youtu.be/FBi28L16rME) |
+| 3484 | Design Spreadsheet | [Java](3001-4000/3484_design_spreadsheet.java) | [Watch](https://youtu.be/6xA3D_MNi8o) |
+| 3495 | Minimum Operations To Make Array Elements Zero | [Java](3001-4000/3495_minimum_operations_to_make_array_elements_zero.java) | [Watch](https://youtu.be/1JbxhrLqwNs) |
+| 3508 | Implement Router | [Java](3001-4000/3508_implement_router.java) | [Watch](https://youtu.be/fYcdjdfDU2Q) |
+| 3516 | Find Closest Person | [Java](3001-4000/3516_find_closest_person.java) | [Watch](https://youtu.be/-6z7V_TQ3z8) |
+| 3541 | Find Most Frequent Vowel And Consonant | [Java](3001-4000/3541_find_most_frequent_vowel_and_consonant.java) | [Watch](https://youtu.be/TF-8ALq-pTk) |
+| 3674 | Minimum Operations To Equalize Array | [Java](3001-4000/3674_minimum_operations_to_equalize_array.java) | [Watch](https://www.youtube.com/@kernel-queen) |
+| 3675 | Minimum Operations To Transform String | [Java](3001-4000/3675_minimum_operations_to_transform_string.java) | [Watch](https://youtu.be/JGA8QJDfPFw) |
+| 3676 | Count Bowl Subarrays | [Java](3001-4000/3676_count_bowl_subarrays.java) | [Watch](https://youtu.be/Wp0uxnwUs50) |
+| 3677 | Count Binary Palindromic Numbers | [Java](3001-4000/3677_count_binary_palindromic_numbers.java) | [Watch](https://youtu.be/qsGNfQaE1As) |
+| 3683 | Earliest Time To Finish One Task | [Java](3001-4000/3683_earliest_time_to_finish_one_task.java) | [Watch](https://youtu.be/Fx0WmVTqP4M) |
+| 3684 | Maximize Sum Of At Most K Distinct Elements | [Java](3001-4000/3684_maximize_sum_of_at_most_k_distinct_elements.java) | [Watch](https://youtu.be/lWbD7G0KyKA) |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
