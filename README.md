@@ -29,6 +29,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 166 | Fraction To Recurring Decimal | [Java](0001-1000/0166_fraction_to_recurring_decimal.java) |
 | 498 | Diagonal Traverse | [Java](0001-1000/0498_diagonal_traverse.java) |
 | 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) |
+| 611 | Valid Triangle Number | [Java](0001-1000/611_valid_triangle_number.java) |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
