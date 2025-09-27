@@ -30,6 +30,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 498 | Diagonal Traverse | [Java](0001-1000/0498_diagonal_traverse.java) | [Watch](https://youtu.be/U4HTd0HZ1Cw) |
 | 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) | [Watch](https://youtu.be/DL133nQ1qJQ) |
 | 611 | Valid Triangle Number | [Java](0001-1000/611_valid_triangle_number.java) | [Watch](https://youtu.be/JibhVrg0pX8) |
+| 812 | Largest Triangle Area | [Java](0001-1000/812_largest_triangle_area.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
