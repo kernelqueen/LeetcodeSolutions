@@ -31,6 +31,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 611 | Valid Triangle Number | [Java](0001-1000/0611_valid_triangle_number.java) | [Watch](https://youtu.be/JibhVrg0pX8) |
 | 812 | Largest Triangle Area | [Java](0001-1000/0812_largest_triangle_area.java) | [Watch](https://youtu.be/mx2ErtASZN8) |
 | 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) | [Watch](https://youtu.be/DL133nQ1qJQ) |
+| 976 | Largest Perimeter Triangle | [Java](0001-1000/976_largest_perimeter_triangle.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
