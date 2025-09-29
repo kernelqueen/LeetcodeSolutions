@@ -42,6 +42,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 
 | # | Title | Solution | Video |
 |---|-------|----------|-------|
+| 1039 | Minimum Score Triangulation Of Polygon | [Java](1001-2000/1039_minimum_score_triangulation_of_polygon.java) | - |
 | 1277 | Count Square Submatrices With All Ones | [Java](1001-2000/1277_count_square_submatrices_with_all_ones.java) | [Watch](https://youtu.be/kPsUlWV5vHA) |
 | 1304 | Find N Unique Integers Sum Up To Zero | [Java](1001-2000/1304_find_n_unique_integers_sum_up_to_zero.java) | [Watch](https://youtu.be/VUOYUiX27pI) |
 | 1317 | Convert Integer To The Sum Of Two No Zero Integers | [Java](1001-2000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) | [Watch](https://youtu.be/GTMyUZsjM_I) |
