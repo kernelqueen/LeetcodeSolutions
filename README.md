@@ -63,6 +63,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | # | Title | Solution | Video |
 |---|-------|----------|-------|
 | 2197 | Replace Non Coprime Numbers In Array | [Java](2001-3000/2197_replace_non_coprime_numbers_in_array.java) | [Watch](https://youtu.be/6T3uQCMxFM0) |
+| 2221 | Find Triangular Sum Of An Array | [Java](2001-3000/2221_find_triangular_sum_of_an_array.java) | - |
 | 2327 | Number Of People Aware Of A Secret | [Java](2001-3000/2327_number_of_people_aware_of_a_secret.java) | [Watch](https://youtu.be/CbHyWK5G4P4) |
 | 2348 | Number Of Zero-Filled Subarrays | [Java](2001-3000/2348_number_of_zero-filled_subarrays.java) | [Watch](https://www.youtube.com/@kernel-queen) |
 | 2353 | Design A Food Rating System | [Java](2001-3000/2353_design_a_food_rating_system.java) | [Watch](https://youtu.be/gPdKb0izHY4) |
