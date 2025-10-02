@@ -85,6 +85,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3021 | Alice And Bob Playing Flower Game | [Java](3001-4000/3021_alice_and_bob_playing_flower_game.java) | [Watch](https://youtu.be/LRhUaPMbNyI) |
 | 3025 | Find The Number Of Ways To Place People 1 | [Java](3001-4000/3025_find_the_number_of_ways_to_place_people_1.java) | [Watch](https://youtu.be/BnmGSG2wZo8) |
 | 3027 | Find The Number Of Ways To Place People 2 | [Java](3001-4000/3027_find_the_number_of_ways_to_place_people_2.java) | [Watch](https://youtu.be/uEY7hT8dlmM) |
+| 3100 | Water Bottles 2 | [Java](3001-4000/3100_water_bottles_2.java) | - |
 | 3195 | Find The Minimum Area To Cover All Ones 1 | [Java](3001-4000/3195_find_the_minimum_area_to_cover_all_ones_1.java) | [Watch](https://youtu.be/jbMrCsU9KeY) |
 | 3197 | Find The Minimum Area To Cover All Ones 2 | [Java](3001-4000/3197_find_the_minimum_area_to_cover_all_ones_2.java) | [Watch](https://youtu.be/X8FnwUP5RL4) |
 | 3227 | Vowels Game In A String | [Java](3001-4000/3227_vowels_game_in_a_string.java) | [Watch](https://youtu.be/u7dE7KmiuGA) |
