@@ -32,6 +32,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 417 | Pacific Atlantic Water Flow | [Java](0001-1000/0417_pacific_atlantic_water_flow.java) | - |
 | 498 | Diagonal Traverse | [Java](0001-1000/0498_diagonal_traverse.java) | [Watch](https://youtu.be/U4HTd0HZ1Cw) |
 | 611 | Valid Triangle Number | [Java](0001-1000/0611_valid_triangle_number.java) | [Watch](https://youtu.be/JibhVrg0pX8) |
+| 778 | Swim In Rising Water | [Java](0001-1000/0778_swim_in_rising_water.java) | - |
 | 812 | Largest Triangle Area | [Java](0001-1000/0812_largest_triangle_area.java) | [Watch](https://youtu.be/mx2ErtASZN8) |
 | 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) | [Watch](https://youtu.be/DL133nQ1qJQ) |
 | 976 | Largest Perimeter Triangle | [Java](0001-1000/0976_largest_perimeter_triangle.java) | - |
