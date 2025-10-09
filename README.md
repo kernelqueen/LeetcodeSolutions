@@ -99,6 +99,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3446 | Sort Matrix By Diagonals | [Java](3001-4000/3446_sort_matrix_by_diagonals.java) | [Watch](https://youtu.be/IetOlGYS4zk) |
 | 3459 | Length Of Longest Vshaped Diagonal Segment | [Java](3001-4000/3459_length_of_longest_vshaped_diagonal_segment.java) | [Watch](https://youtu.be/FBi28L16rME) |
 | 3484 | Design Spreadsheet | [Java](3001-4000/3484_design_spreadsheet.java) | [Watch](https://youtu.be/6xA3D_MNi8o) |
+| 3494 | Find The Minimum Amount Of Time To Brew Potions | [Java](3001-4000/3494_find_the_minimum_amount_of_time_to_brew_potions.java) | - |
 | 3495 | Minimum Operations To Make Array Elements Zero | [Java](3001-4000/3495_minimum_operations_to_make_array_elements_zero.java) | [Watch](https://youtu.be/1JbxhrLqwNs) |
 | 3508 | Implement Router | [Java](3001-4000/3508_implement_router.java) | [Watch](https://youtu.be/fYcdjdfDU2Q) |
 | 3516 | Find Closest Person | [Java](3001-4000/3516_find_closest_person.java) | [Watch](https://youtu.be/-6z7V_TQ3z8) |
