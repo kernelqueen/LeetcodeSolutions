@@ -89,6 +89,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 
 | # | Title | Solution | Video |
 |---|-------|----------|-------|
+| 3003 | Maximize The Number Of Partitions After Operations | [Java](3001-4000/3003_maximize_the_number_of_partitions_after_operations.java) | - |
 | 3005 | Count Elements With Maximum Frequency | [Java](3001-4000/3005_count_elements_with_maximum_frequency.java) | [Watch](https://youtu.be/7TRzRqawvD4) |
 | 3021 | Alice And Bob Playing Flower Game | [Java](3001-4000/3021_alice_and_bob_playing_flower_game.java) | [Watch](https://youtu.be/LRhUaPMbNyI) |
 | 3025 | Find The Number Of Ways To Place People 1 | [Java](3001-4000/3025_find_the_number_of_ways_to_place_people_1.java) | [Watch](https://youtu.be/BnmGSG2wZo8) |
