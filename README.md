@@ -73,6 +73,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2011 | Final Value Of Variable After Performing Operations | [Java](2001-3000/2011_final_value_of_variable_after_performing_operations.java) | - |
 | 2043 | Simple Bank System | [Java](2001-3000/2043_simple_bank_system.java) | - |
 | 2048 | Next Greater Numerically Balanced Number | [Java](2001-3000/2048_next_greater_numerically_balanced_number.java) | - |
+| 2125 | Number Of Laser Beams In A Bank | [Java](2001-3000/2125_number_of_laser_beams_in_a_bank.java) | - |
 | 2197 | Replace Non Coprime Numbers In Array | [Java](2001-3000/2197_replace_non_coprime_numbers_in_array.java) | [Watch](https://youtu.be/6T3uQCMxFM0) |
 | 2221 | Find Triangular Sum Of An Array | [Java](2001-3000/2221_find_triangular_sum_of_an_array.java) | - |
 | 2273 | Find Resultant Array After Removing Anagrams | [Java](2001-3000/2273_find_resultant_array_after_removing_anagrams.java) | - |
