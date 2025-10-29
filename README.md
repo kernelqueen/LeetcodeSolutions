@@ -111,6 +111,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3349 | Adjaent Increasing Subarrays Detection I | [Java](3001-4000/3349_adjaent_increasing_subarrays_detection_I.java) | - |
 | 3350 | Adjacent Increasing Subarrays Detection 2 | [Java](3001-4000/3350_adjacent_increasing_subarrays_detection_2.java) | - |
 | 3354 | Make Array Elements Equal To Zero | [Java](3001-4000/3354_make_array_elements_equal_to_zero.java) | - |
+| 3370 | Smallest Number With All Set Bits | [Java](3001-4000/3370_smallest_number_with_all_set_bits.java) | - |
 | 3397 | Maximum Number Of Distinct Elements After Operations | [Java](3001-4000/3397_maximum_number_of_distinct_elements_after_operations.java) | - |
 | 3408 | Design Task Manager | [Java](3001-4000/3408_design_task_manager.java) | [Watch](https://youtu.be/vVn5-WvzFJU) |
 | 3446 | Sort Matrix By Diagonals | [Java](3001-4000/3446_sort_matrix_by_diagonals.java) | [Watch](https://youtu.be/IetOlGYS4zk) |
