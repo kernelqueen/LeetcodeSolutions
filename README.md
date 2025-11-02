@@ -77,6 +77,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2125 | Number Of Laser Beams In A Bank | [Java](2001-3000/2125_number_of_laser_beams_in_a_bank.java) | - |
 | 2197 | Replace Non Coprime Numbers In Array | [Java](2001-3000/2197_replace_non_coprime_numbers_in_array.java) | [Watch](https://youtu.be/6T3uQCMxFM0) |
 | 2221 | Find Triangular Sum Of An Array | [Java](2001-3000/2221_find_triangular_sum_of_an_array.java) | - |
+| 2257 | Count Unguarded Cells In The Grid | [Java](2001-3000/2257_count_unguarded_cells_in_the_grid.java) | - |
 | 2273 | Find Resultant Array After Removing Anagrams | [Java](2001-3000/2273_find_resultant_array_after_removing_anagrams.java) | - |
 | 2300 | Successul Pairs Of Spells And Potions | [Java](2001-3000/2300_successul_pairs_of_spells_and_potions.java) | - |
 | 2327 | Number Of People Aware Of A Secret | [Java](2001-3000/2327_number_of_people_aware_of_a_secret.java) | [Watch](https://youtu.be/CbHyWK5G4P4) |
