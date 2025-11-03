@@ -55,6 +55,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1504 | Count Submatrices With All Ones | [Java](1001-2000/1504_count_submatrices_with_all_ones.java) | [Watch](https://youtu.be/1y5Ihy1IiQg) |
 | 1518 | Water Bottles | [Java](1001-2000/1518_water_bottles.java) | - |
 | 1526 | Minimum Number Of Increments On Subarrays To Form A Target Array | [Java](1001-2000/1526_minimum_number_of_increments_on_subarrays_to_form_a_target_array.java) | - |
+| 1578 | Minimum Time To Make Rope Colorful | [Java](1001-2000/1578_minimum_time_to_make_rope_colorful.java) | - |
 | 1625 | Lexicographically Smallest String After Applying Operations | [Java](1001-2000/1625_lexicographically_smallest_string_after_applying_operations.java) | - |
 | 1716 | Calculate Money In Leetcode Bank | [Java](1001-2000/1716_calculate_money_in_leetcode_bank.java) | - |
 | 1733 | Minimum Number Of People To Teach | [Java](1001-2000/1733_minimum_number_of_people_to_teach.java) | [Watch](https://youtu.be/5eOBp1wYcqA) |
