@@ -112,7 +112,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3227 | Vowels Game In A String | [Java](3001-4000/3227_vowels_game_in_a_string.java) | [Watch](https://youtu.be/u7dE7KmiuGA) |
 | 3289 | The Two Sneaky Numbers Of Digitville | [Java](3001-4000/3289_the_two_sneaky_numbers_of_digitville.java) | - |
 | 3318 | Find X Sum Of All K Long Subarrays 1 | [Java](3001-4000/3318_find_x_sum_of_all_k_long_subarrays_1.java) | - |
-| 3321 | Find X Sum Of All K Long Subarrays 1 | [Java](3001-4000/3321_find_x_sum_of_all_k_long_subarrays_1.java) | - |
+| 3321 | Find X Sum Of All K Long Subarrays 2 | [Java](3001-4000/3321_find_x_sum_of_all_k_long_subarrays_2.java) | - |
 | 3346 | Maximum Frequency Of An Element After Performing Operations 1 | [Java](3001-4000/3346_maximum_frequency_of_an_element_after_performing_operations_1.java) | - |
 | 3347 | Maximum Frequency Of An Element After Performing Operations 2 | [Java](3001-4000/3347_maximum_frequency_of_an_element_after_performing_operations_2.java) | - |
 | 3349 | Adjaent Increasing Subarrays Detection I | [Java](3001-4000/3349_adjaent_increasing_subarrays_detection_I.java) | - |
