@@ -130,6 +130,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3508 | Implement Router | [Java](3001-4000/3508_implement_router.java) | [Watch](https://youtu.be/fYcdjdfDU2Q) |
 | 3516 | Find Closest Person | [Java](3001-4000/3516_find_closest_person.java) | [Watch](https://youtu.be/-6z7V_TQ3z8) |
 | 3541 | Find Most Frequent Vowel And Consonant | [Java](3001-4000/3541_find_most_frequent_vowel_and_consonant.java) | [Watch](https://youtu.be/TF-8ALq-pTk) |
+| 3607 | Power Grid Maintenance | [Java](3001-4000/3607_power_grid_maintenance.java) | - |
 | 3674 | Minimum Operations To Equalize Array | [Java](3001-4000/3674_minimum_operations_to_equalize_array.java) | [Watch](https://www.youtube.com/@kernel-queen) |
 | 3675 | Minimum Operations To Transform String | [Java](3001-4000/3675_minimum_operations_to_transform_string.java) | [Watch](https://youtu.be/JGA8QJDfPFw) |
 | 3676 | Count Bowl Subarrays | [Java](3001-4000/3676_count_bowl_subarrays.java) | [Watch](https://youtu.be/Wp0uxnwUs50) |
