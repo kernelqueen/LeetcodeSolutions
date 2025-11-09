@@ -56,6 +56,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1518 | Water Bottles | [Java](1001-2000/1518_water_bottles.java) | - |
 | 1526 | Minimum Number Of Increments On Subarrays To Form A Target Array | [Java](1001-2000/1526_minimum_number_of_increments_on_subarrays_to_form_a_target_array.java) | - |
 | 1578 | Minimum Time To Make Rope Colorful | [Java](1001-2000/1578_minimum_time_to_make_rope_colorful.java) | - |
+| 1611 | Minimum One Bit Operations To Make Integers Zero | [Java](1001-2000/1611_minimum_one_bit_operations_to_make_integers_zero.java) | - |
 | 1625 | Lexicographically Smallest String After Applying Operations | [Java](1001-2000/1625_lexicographically_smallest_string_after_applying_operations.java) | - |
 | 1716 | Calculate Money In Leetcode Bank | [Java](1001-2000/1716_calculate_money_in_leetcode_bank.java) | - |
 | 1733 | Minimum Number Of People To Teach | [Java](1001-2000/1733_minimum_number_of_people_to_teach.java) | [Watch](https://youtu.be/5eOBp1wYcqA) |
@@ -76,6 +77,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2043 | Simple Bank System | [Java](2001-3000/2043_simple_bank_system.java) | - |
 | 2048 | Next Greater Numerically Balanced Number | [Java](2001-3000/2048_next_greater_numerically_balanced_number.java) | - |
 | 2125 | Number Of Laser Beams In A Bank | [Java](2001-3000/2125_number_of_laser_beams_in_a_bank.java) | - |
+| 2169 | Count Operations To Obtain Zero | [Java](2001-3000/2169_count_operations_to_obtain_zero.java) | - |
 | 2197 | Replace Non Coprime Numbers In Array | [Java](2001-3000/2197_replace_non_coprime_numbers_in_array.java) | [Watch](https://youtu.be/6T3uQCMxFM0) |
 | 2221 | Find Triangular Sum Of An Array | [Java](2001-3000/2221_find_triangular_sum_of_an_array.java) | - |
 | 2257 | Count Unguarded Cells In The Grid | [Java](2001-3000/2257_count_unguarded_cells_in_the_grid.java) | - |
