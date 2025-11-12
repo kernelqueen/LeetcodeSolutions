@@ -89,6 +89,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2353 | Design A Food Rating System | [Java](2001-3000/2353_design_a_food_rating_system.java) | [Watch](https://youtu.be/gPdKb0izHY4) |
 | 2528 | Maximize The Minimum Powered City | [Java](2001-3000/2528_maximize_the_minimum_powered_city.java) | - |
 | 2598 | Smallest Missing Non Negative Integer After Operations | [Java](2001-3000/2598_smallest_missing_non_negative_integer_after_operations.java) | - |
+| 2654 | Minimum Number Of Operations To Make All Array Elements Equal To1 | [Java](2001-3000/2654_minimum_number_of_operations_to_make_all_array_elements_equal_to1.java) | - |
 | 2749 | Minimum Operations To Make The Integer Zero | [Java](2001-3000/2749_minimum_operations_to_make_the_integer_zero.java) | [Watch](https://youtu.be/l3eJ2olhL5I) |
 | 2785 | Sort Vowels In A String | [Java](2001-3000/2785_sort_vowels_in_a_string.java) | [Watch](https://youtu.be/TvDuo7U4I1M) |
 | 3000 | Maximum Area Of Longest Diagonal Rectangle | [Java](2001-3000/3000_maximum_area_of_longest_diagonal_rectangle.java) | [Watch](https://youtu.be/fquOOxQJZ9s) |
