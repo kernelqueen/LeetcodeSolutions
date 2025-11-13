@@ -115,6 +115,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3197 | Find The Minimum Area To Cover All Ones 2 | [Java](3001-4000/3197_find_the_minimum_area_to_cover_all_ones_2.java) | [Watch](https://youtu.be/X8FnwUP5RL4) |
 | 3217 | Delete Nodes From Linked List Present In Array | [Java](3001-4000/3217_delete_nodes_from_linked_list_present_in_array.java) | - |
 | 3227 | Vowels Game In A String | [Java](3001-4000/3227_vowels_game_in_a_string.java) | [Watch](https://youtu.be/u7dE7KmiuGA) |
+| 3228 | Maximum Number Of Operations To Move Ones To The End | [Java](3001-4000/3228_maximum_number_of_operations_to_move_ones_to_the_end.java) | - |
 | 3289 | The Two Sneaky Numbers Of Digitville | [Java](3001-4000/3289_the_two_sneaky_numbers_of_digitville.java) | - |
 | 3318 | Find X Sum Of All K Long Subarrays 1 | [Java](3001-4000/3318_find_x_sum_of_all_k_long_subarrays_1.java) | - |
 | 3321 | Find X Sum Of All K Long Subarrays 2 | [Java](3001-4000/3321_find_x_sum_of_all_k_long_subarrays_2.java) | - |
