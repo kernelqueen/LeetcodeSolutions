@@ -54,6 +54,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1488 | Avoid Flood In The City | [Java](1001-2000/1488_avoid_flood_in_the_city.java) | - |
 | 1493 | Longest Subarray Of 1S After Deleting One Element | [Java](1001-2000/1493_longest_subarray_of_1s_after_deleting_one_element.java) | [Watch](https://youtu.be/twOZ7QVMlXM) |
 | 1504 | Count Submatrices With All Ones | [Java](1001-2000/1504_count_submatrices_with_all_ones.java) | [Watch](https://youtu.be/1y5Ihy1IiQg) |
+| 1513 | Number Of Substrings With Only 1S | [Java](1001-2000/1513_number_of_substrings_with_only_1s.java) | - |
 | 1518 | Water Bottles | [Java](1001-2000/1518_water_bottles.java) | - |
 | 1526 | Minimum Number Of Increments On Subarrays To Form A Target Array | [Java](1001-2000/1526_minimum_number_of_increments_on_subarrays_to_form_a_target_array.java) | - |
 | 1578 | Minimum Time To Make Rope Colorful | [Java](1001-2000/1578_minimum_time_to_make_rope_colorful.java) | - |
