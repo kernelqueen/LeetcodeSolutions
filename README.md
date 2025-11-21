@@ -67,6 +67,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1733 | Minimum Number Of People To Teach | [Java](1001-2000/1733_minimum_number_of_people_to_teach.java) | [Watch](https://youtu.be/5eOBp1wYcqA) |
 | 1792 | Maximum Average Pass Ratio | [Java](1001-2000/1792_maximum_average_pass_ratio.java) | [Watch](https://youtu.be/ba-d6nNSCQ8n) |
 | 1912 | Design Movie Rental System | [Java](1001-2000/1912_design_movie_rental_system.java) | [Watch](https://youtu.be/acwizX111iU) |
+| 1930 | Unique Length 3 Palindromic Subsequences | [Java](1001-2000/1930_unique_length_3_palindromic_subsequences.java) | - |
 | 1935 | Maximum Number Of Words You Can Type | [Java](1001-2000/1935_maximum_number_of_words_you_can_type.java) | [Watch](https://youtu.be/pPCbpVmE51k) |
 
 
