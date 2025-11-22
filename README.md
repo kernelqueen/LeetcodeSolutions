@@ -118,6 +118,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3100 | Water Bottles 2 | [Java](3001-4000/3100_water_bottles_2.java) | [Watch](https://youtu.be/UnFcSszk63g) |
 | 3147 | Taking Maximum Energy From The Mystic Dungeon | [Java](3001-4000/3147_taking_maximum_energy_from_the_mystic_dungeon.java) | [Watch](https://youtu.be/_BWUC7jviSE) |
 | 3186 | Maximum Total Damage With Spell Casting | [Java](3001-4000/3186_maximum_total_damage_with_spell_casting.java) | [Watch](https://youtu.be/fw4s2kOfZqU) |
+| 3190 | Find Minimum Number Of Operations-To Make All Elements Divisible By Three | [Java](3001-4000/3190_find_minimum_number_of_operations-to_make_All_elements_divisible_by_three.java) | - |
 | 3195 | Find The Minimum Area To Cover All Ones 1 | [Java](3001-4000/3195_find_the_minimum_area_to_cover_all_ones_1.java) | [Watch](https://youtu.be/jbMrCsU9KeY) |
 | 3197 | Find The Minimum Area To Cover All Ones 2 | [Java](3001-4000/3197_find_the_minimum_area_to_cover_all_ones_2.java) | [Watch](https://youtu.be/X8FnwUP5RL4) |
 | 3217 | Delete Nodes From Linked List Present In Array | [Java](3001-4000/3217_delete_nodes_from_linked_list_present_in_array.java) | [Watch](https://youtu.be/K-U3QhAJE2s) |
