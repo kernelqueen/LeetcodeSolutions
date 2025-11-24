@@ -49,6 +49,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 
 | # | Title | Solution | Video |
 |---|-------|----------|-------|
+| 1018 | Binary Prefix Divisible By 5 | [Java](1001-2000/1018_binary_prefix_divisible_by_5.java) | - |
 | 1039 | Minimum Score Triangulation Of Polygon | [Java](1001-2000/1039_minimum_score_triangulation_of_polygon.java) | [Watch](https://youtu.be/fFTJd4eCLD4) |
 | 1262 | Greatest Sum Divisible By Three | [Java](1001-2000/1262_greatest_sum_divisible_by_three.java) | - |
 | 1277 | Count Square Submatrices With All Ones | [Java](1001-2000/1277_count_square_submatrices_with_all_ones.java) | [Watch](https://youtu.be/kPsUlWV5vHA) |
