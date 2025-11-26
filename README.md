@@ -96,6 +96,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2327 | Number Of People Aware Of A Secret | [Java](2001-3000/2327_number_of_people_aware_of_a_secret.java) | [Watch](https://youtu.be/CbHyWK5G4P4) |
 | 2348 | Number Of Zero-Filled Subarrays | [Java](2001-3000/2348_number_of_zero-filled_subarrays.java) | [Watch]() |
 | 2353 | Design A Food Rating System | [Java](2001-3000/2353_design_a_food_rating_system.java) | [Watch](https://youtu.be/gPdKb0izHY4) |
+| 2435 | Paths In Matrix Whose Sum Is Divisible By K | [Java](2001-3000/2435_paths_in_matrix_whose_sum_is_divisible_by_k.java) | - |
 | 2528 | Maximize The Minimum Powered City | [Java](2001-3000/2528_maximize_the_minimum_powered_city.java) | [Watch](https://youtu.be/8xjUS1S1UpM) |
 | 2536 | Increment Submatrices By One | [Java](2001-3000/2536_increment_submatrices_by_one.java) | [Watch](https://youtu.be/ZKFR1yBYjIY) |
 | 2598 | Smallest Missing Non Negative Integer After Operations | [Java](2001-3000/2598_smallest_missing_non_negative_integer_after_operations.java) | [Watch](https://youtu.be/XBwzPRQodUQ) |
