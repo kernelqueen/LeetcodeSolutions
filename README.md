@@ -148,6 +148,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3494 | Find The Minimum Amount Of Time To Brew Potions | [Java](3001-4000/3494_find_the_minimum_amount_of_time_to_brew_potions.java) | [Watch](https://youtu.be/nA5ELqfhRBs) |
 | 3495 | Minimum Operations To Make Array Elements Zero | [Java](3001-4000/3495_minimum_operations_to_make_array_elements_zero.java) | [Watch](https://youtu.be/1JbxhrLqwNs) |
 | 3508 | Implement Router | [Java](3001-4000/3508_implement_router.java) | [Watch](https://youtu.be/fYcdjdfDU2Q) |
+| 3512 | Minimum Operations To Make Array Sum Divisible By K | [Java](3001-4000/3512_minimum_operations_to_make_array_sum_divisible_by_k.java) | - |
 | 3516 | Find Closest Person | [Java](3001-4000/3516_find_closest_person.java) | [Watch](https://youtu.be/-6z7V_TQ3z8) |
 | 3541 | Find Most Frequent Vowel And Consonant | [Java](3001-4000/3541_find_most_frequent_vowel_and_consonant.java) | [Watch](https://youtu.be/TF-8ALq-pTk) |
 | 3542 | Minimum Operations To Convert All Elements To Zero | [Java](3001-4000/3542_minimum_operations_to_convert_all_elements_to_zero.java) | [Watch](https://youtu.be/D4z1iYHpc1k) |
