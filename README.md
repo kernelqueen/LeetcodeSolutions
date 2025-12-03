@@ -155,6 +155,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3542 | Minimum Operations To Convert All Elements To Zero | [Java](3001-4000/3542_minimum_operations_to_convert_all_elements_to_zero.java) | [Watch](https://youtu.be/D4z1iYHpc1k) |
 | 3607 | Power Grid Maintenance | [Java](3001-4000/3607_power_grid_maintenance.java) | [Watch](https://youtu.be/B18kdsHEg9U) |
 | 3623 | Count Number Of Trapezoids 1 | [Java](3001-4000/3623_count_number_of_trapezoids_1.java) | - |
+| 3625 | Count Number Of Trapezoids 2 | [Java](3001-4000/3625_count_number_of_trapezoids_2.java) | - |
 | 3674 | Minimum Operations To Equalize Array | [Java](3001-4000/3674_minimum_operations_to_equalize_array.java) | [Watch](https://youtu.be/NAwhqpKW2HU) |
 | 3675 | Minimum Operations To Transform String | [Java](3001-4000/3675_minimum_operations_to_transform_string.java) | [Watch](https://youtu.be/JGA8QJDfPFw) |
 | 3676 | Count Bowl Subarrays | [Java](3001-4000/3676_count_bowl_subarrays.java) | [Watch](https://youtu.be/Wp0uxnwUs50) |
