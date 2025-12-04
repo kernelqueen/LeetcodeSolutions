@@ -90,6 +90,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2154 | Keep Multiplying Found Values By Two | [Java](2001-3000/2154_keep_multiplying_found_values_by_two.java) | [Watch](https://youtu.be/aqqjB9kG2xU) |
 | 2169 | Count Operations To Obtain Zero | [Java](2001-3000/2169_count_operations_to_obtain_zero.java) | [Watch](https://youtu.be/hegPLFyvRis) |
 | 2197 | Replace Non Coprime Numbers In Array | [Java](2001-3000/2197_replace_non_coprime_numbers_in_array.java) | [Watch](https://youtu.be/6T3uQCMxFM0) |
+| 2211 | Count Collisions On A Road | [Java](2001-3000/2211_count_collisions_on_a_road.java) | - |
 | 2221 | Find Triangular Sum Of An Array | [Java](2001-3000/2221_find_triangular_sum_of_an_array.java) | [Watch](https://youtu.be/YupccufhRB8) |
 | 2257 | Count Unguarded Cells In The Grid | [Java](2001-3000/2257_count_unguarded_cells_in_the_grid.java) | [Watch](https://youtu.be/hG_dxbTmLUg) |
 | 2273 | Find Resultant Array After Removing Anagrams | [Java](2001-3000/2273_find_resultant_array_after_removing_anagrams.java) | [Watch](https://youtu.be/0yNQv1ZlBXk) |
