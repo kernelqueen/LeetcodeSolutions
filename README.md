@@ -62,6 +62,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1504 | Count Submatrices With All Ones | [Java](1001-2000/1504_count_submatrices_with_all_ones.java) | [Watch](https://youtu.be/1y5Ihy1IiQg) |
 | 1513 | Number Of Substrings With Only 1S | [Java](1001-2000/1513_number_of_substrings_with_only_1s.java) | [Watch](https://youtu.be/_1qf9B4DZ3A) |
 | 1518 | Water Bottles | [Java](1001-2000/1518_water_bottles.java) | [Watch](https://youtu.be/RH8yUhWYu_U) |
+| 1523 | Count Odd Numbers In An Interval Range | [Java](1001-2000/1523_count_odd_numbers_in_an_interval_range.java) | - |
 | 1526 | Minimum Number Of Increments On Subarrays To Form A Target Array | [Java](1001-2000/1526_minimum_number_of_increments_on_subarrays_to_form_a_target_array.java) | [Watch](https://youtu.be/7PZZTid-PEc) |
 | 1578 | Minimum Time To Make Rope Colorful | [Java](1001-2000/1578_minimum_time_to_make_rope_colorful.java) | [Watch](https://youtu.be/n93YcylrgcM) |
 | 1590 | Make Some Divisible By P | [Java](1001-2000/1590_make_some_divisible_by_p.java) | - |
@@ -71,6 +72,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1733 | Minimum Number Of People To Teach | [Java](1001-2000/1733_minimum_number_of_people_to_teach.java) | [Watch](https://youtu.be/5eOBp1wYcqA) |
 | 1792 | Maximum Average Pass Ratio | [Java](1001-2000/1792_maximum_average_pass_ratio.java) | [Watch](https://youtu.be/ba-d6nNSCQ8n) |
 | 1912 | Design Movie Rental System | [Java](1001-2000/1912_design_movie_rental_system.java) | [Watch](https://youtu.be/acwizX111iU) |
+| 1925 | Count Square Sum Triplets | [Java](1001-2000/1925_count_square_sum_triplets.java) | - |
 | 1930 | Unique Length 3 Palindromic Subsequences | [Java](1001-2000/1930_unique_length_3_palindromic_subsequences.java) | - |
 | 1935 | Maximum Number Of Words You Can Type | [Java](1001-2000/1935_maximum_number_of_words_you_can_type.java) | [Watch](https://youtu.be/pPCbpVmE51k) |
 
@@ -143,6 +145,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3381 | Maximum Subarray Sum With Length Divisible By K | [Java](3001-4000/3381_maximum_subarray_sum_with_length_divisible_by_k.java) | - |
 | 3397 | Maximum Number Of Distinct Elements After Operations | [Java](3001-4000/3397_maximum_number_of_distinct_elements_after_operations.java) | [Watch](https://youtu.be/4utTQOEICZs) |
 | 3408 | Design Task Manager | [Java](3001-4000/3408_design_task_manager.java) | [Watch](https://youtu.be/vVn5-WvzFJU) |
+| 3432 | Count Partitions With Even Sum Difference | [Java](3001-4000/3432_count_partitions_with_even_sum_difference.java) | - |
 | 3446 | Sort Matrix By Diagonals | [Java](3001-4000/3446_sort_matrix_by_diagonals.java) | [Watch](https://youtu.be/IetOlGYS4zk) |
 | 3459 | Length Of Longest Vshaped Diagonal Segment | [Java](3001-4000/3459_length_of_longest_vshaped_diagonal_segment.java) | [Watch](https://youtu.be/FBi28L16rME) |
 | 3461 | Check If Digits Are Equal In String After Operations 1 | [Java](3001-4000/3461_check_if_digits_are_equal_in_string_after_operations_1.java) | [Watch](https://youtu.be/eEltFIiZSCk) |
@@ -154,6 +157,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3516 | Find Closest Person | [Java](3001-4000/3516_find_closest_person.java) | [Watch](https://youtu.be/-6z7V_TQ3z8) |
 | 3541 | Find Most Frequent Vowel And Consonant | [Java](3001-4000/3541_find_most_frequent_vowel_and_consonant.java) | [Watch](https://youtu.be/TF-8ALq-pTk) |
 | 3542 | Minimum Operations To Convert All Elements To Zero | [Java](3001-4000/3542_minimum_operations_to_convert_all_elements_to_zero.java) | [Watch](https://youtu.be/D4z1iYHpc1k) |
+| 3583 | Count Special Triplets | [Java](3001-4000/3583_count_special_triplets.java) | - |
 | 3607 | Power Grid Maintenance | [Java](3001-4000/3607_power_grid_maintenance.java) | [Watch](https://youtu.be/B18kdsHEg9U) |
 | 3623 | Count Number Of Trapezoids 1 | [Java](3001-4000/3623_count_number_of_trapezoids_1.java) | - |
 | 3625 | Count Number Of Trapezoids 2 | [Java](3001-4000/3625_count_number_of_trapezoids_2.java) | - |
