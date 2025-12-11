@@ -155,6 +155,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3508 | Implement Router | [Java](3001-4000/3508_implement_router.java) | [Watch](https://youtu.be/fYcdjdfDU2Q) |
 | 3512 | Minimum Operations To Make Array Sum Divisible By K | [Java](3001-4000/3512_minimum_operations_to_make_array_sum_divisible_by_k.java) | - |
 | 3516 | Find Closest Person | [Java](3001-4000/3516_find_closest_person.java) | [Watch](https://youtu.be/-6z7V_TQ3z8) |
+| 3531 | Count Covered Buildings | [Java](3001-4000/3531_count_covered_buildings.java) | - |
 | 3541 | Find Most Frequent Vowel And Consonant | [Java](3001-4000/3541_find_most_frequent_vowel_and_consonant.java) | [Watch](https://youtu.be/TF-8ALq-pTk) |
 | 3542 | Minimum Operations To Convert All Elements To Zero | [Java](3001-4000/3542_minimum_operations_to_convert_all_elements_to_zero.java) | [Watch](https://youtu.be/D4z1iYHpc1k) |
 | 3577 | Count The Number Of Computer Unlocking Permutations | [Java](3001-4000/3577_count_the_number_of_computer_unlocking_permutations.java) | - |
