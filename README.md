@@ -146,6 +146,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3397 | Maximum Number Of Distinct Elements After Operations | [Java](3001-4000/3397_maximum_number_of_distinct_elements_after_operations.java) | [Watch](https://youtu.be/4utTQOEICZs) |
 | 3408 | Design Task Manager | [Java](3001-4000/3408_design_task_manager.java) | [Watch](https://youtu.be/vVn5-WvzFJU) |
 | 3432 | Count Partitions With Even Sum Difference | [Java](3001-4000/3432_count_partitions_with_even_sum_difference.java) | - |
+| 3433 | Count Mentions Per User | [Java](3001-4000/3433_count_mentions_per_user.java) | - |
 | 3446 | Sort Matrix By Diagonals | [Java](3001-4000/3446_sort_matrix_by_diagonals.java) | [Watch](https://youtu.be/IetOlGYS4zk) |
 | 3459 | Length Of Longest Vshaped Diagonal Segment | [Java](3001-4000/3459_length_of_longest_vshaped_diagonal_segment.java) | [Watch](https://youtu.be/FBi28L16rME) |
 | 3461 | Check If Digits Are Equal In String After Operations 1 | [Java](3001-4000/3461_check_if_digits_are_equal_in_string_after_operations_1.java) | [Watch](https://youtu.be/eEltFIiZSCk) |
