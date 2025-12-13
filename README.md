@@ -162,6 +162,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3577 | Count The Number Of Computer Unlocking Permutations | [Java](3001-4000/3577_count_the_number_of_computer_unlocking_permutations.java) | - |
 | 3578 | Count Partitions With Max Min Difference At Most K | [Java](3001-4000/3578_count_partitions_with_max_min_difference_at_most_k.java) | - |
 | 3583 | Count Special Triplets | [Java](3001-4000/3583_count_special_triplets.java) | - |
+| 3606 | Coupon Code Validator | [Java](3001-4000/3606_coupon_code_validator.java) | - |
 | 3607 | Power Grid Maintenance | [Java](3001-4000/3607_power_grid_maintenance.java) | [Watch](https://youtu.be/B18kdsHEg9U) |
 | 3623 | Count Number Of Trapezoids 1 | [Java](3001-4000/3623_count_number_of_trapezoids_1.java) | - |
 | 3625 | Count Number Of Trapezoids 2 | [Java](3001-4000/3625_count_number_of_trapezoids_2.java) | - |
