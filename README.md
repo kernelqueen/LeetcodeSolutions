@@ -88,6 +88,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2011 | Final Value Of Variable After Performing Operations | [Java](2001-3000/2011_final_value_of_variable_after_performing_operations.java) | [Watch](https://youtu.be/A0y3XjQ_jrA) |
 | 2043 | Simple Bank System | [Java](2001-3000/2043_simple_bank_system.java) | [Watch](https://youtu.be/bWzDybTrEDs) |
 | 2048 | Next Greater Numerically Balanced Number | [Java](2001-3000/2048_next_greater_numerically_balanced_number.java) | [Watch](https://youtu.be/_Ao-4SWm2WU) |
+| 2110 | Number Of Smooth Decent Periods Of A Stock | [Java](2001-3000/2110_number_of_smooth_decent_periods_of_a_stock.java) | - |
 | 2125 | Number Of Laser Beams In A Bank | [Java](2001-3000/2125_number_of_laser_beams_in_a_bank.java) | [Watch](https://youtu.be/4FNtA0Dhv2s) |
 | 2147 | Number Of Ways To Divide A Long Corridor | [Java](2001-3000/2147_number_of_ways_to_divide_a_long_corridor.java) | - |
 | 2154 | Keep Multiplying Found Values By Two | [Java](2001-3000/2154_keep_multiplying_found_values_by_two.java) | [Watch](https://youtu.be/aqqjB9kG2xU) |
