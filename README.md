@@ -161,6 +161,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3531 | Count Covered Buildings | [Java](3001-4000/3531_count_covered_buildings.java) | - |
 | 3541 | Find Most Frequent Vowel And Consonant | [Java](3001-4000/3541_find_most_frequent_vowel_and_consonant.java) | [Watch](https://youtu.be/TF-8ALq-pTk) |
 | 3542 | Minimum Operations To Convert All Elements To Zero | [Java](3001-4000/3542_minimum_operations_to_convert_all_elements_to_zero.java) | [Watch](https://youtu.be/D4z1iYHpc1k) |
+| 3573 | Best Time To Buy And Sell Stocks 5 | [Java](3001-4000/3573_best_time_to_buy_and_sell_stocks_5.java) | - |
 | 3577 | Count The Number Of Computer Unlocking Permutations | [Java](3001-4000/3577_count_the_number_of_computer_unlocking_permutations.java) | - |
 | 3578 | Count Partitions With Max Min Difference At Most K | [Java](3001-4000/3578_count_partitions_with_max_min_difference_at_most_k.java) | - |
 | 3583 | Count Special Triplets | [Java](3001-4000/3583_count_special_triplets.java) | - |
