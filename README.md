@@ -37,6 +37,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 757 | Set Intersection Size At Least Two | [Java](0001-1000/0757_set_intersection_size_at_least_two.java) | - |
 | 778 | Swim In Rising Water | [Java](0001-1000/0778_swim_in_rising_water.java) | [Watch](https://youtu.be/vVcod2nDazo) |
 | 812 | Largest Triangle Area | [Java](0001-1000/0812_largest_triangle_area.java) | [Watch](https://youtu.be/mx2ErtASZN8) |
+| 944 | Delete Columns To Make Sorted | [Java](0001-1000/0944_delete_columns_to_make_sorted.java) | - |
 | 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) | [Watch](https://youtu.be/DL133nQ1qJQ) |
 | 976 | Largest Perimeter Triangle | [Java](0001-1000/0976_largest_perimeter_triangle.java) | [Watch](https://youtu.be/fo5RQ9HESIk) |
 
