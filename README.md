@@ -39,9 +39,9 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 812 | Largest Triangle Area | [Java](0001-1000/0812_largest_triangle_area.java) | [Watch](https://youtu.be/mx2ErtASZN8) |
 | 944 | Delete Columns To Make Sorted | [Java](0001-1000/0944_delete_columns_to_make_sorted.java) | - |
 | 955 | Delete Columns To Make Sorted 2 | [Java](0001-1000/0955_delete_columns_to_make_sorted_2.java) | - |
+| 960 | Delete Columns To Make Sorted 3 | [Java](0001-1000/0960_delete_columns_to_make_sorted_3.java) | - |
 | 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) | [Watch](https://youtu.be/DL133nQ1qJQ) |
 | 976 | Largest Perimeter Triangle | [Java](0001-1000/0976_largest_perimeter_triangle.java) | [Watch](https://youtu.be/fo5RQ9HESIk) |
-| 960 | Delete Columns To Make Sorted 3 | [Java](0001-1000/960_delete_columns_to_make_sorted_3.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
@@ -91,6 +91,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2011 | Final Value Of Variable After Performing Operations | [Java](2001-3000/2011_final_value_of_variable_after_performing_operations.java) | [Watch](https://youtu.be/A0y3XjQ_jrA) |
 | 2043 | Simple Bank System | [Java](2001-3000/2043_simple_bank_system.java) | [Watch](https://youtu.be/bWzDybTrEDs) |
 | 2048 | Next Greater Numerically Balanced Number | [Java](2001-3000/2048_next_greater_numerically_balanced_number.java) | [Watch](https://youtu.be/_Ao-4SWm2WU) |
+| 2054 | Two Best Non Overlapping Events | [Java](2001-3000/2054_two_best_non_overlapping_events.java) | - |
 | 2092 | Find All People With Secret | [Java](2001-3000/2092_find_all_people_with_secret.java) | - |
 | 2110 | Number Of Smooth Decent Periods Of A Stock | [Java](2001-3000/2110_number_of_smooth_decent_periods_of_a_stock.java) | - |
 | 2125 | Number Of Laser Beams In A Bank | [Java](2001-3000/2125_number_of_laser_beams_in_a_bank.java) | [Watch](https://youtu.be/4FNtA0Dhv2s) |
