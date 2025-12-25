@@ -132,6 +132,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3025 | Find The Number Of Ways To Place People 1 | [Java](3001-4000/3025_find_the_number_of_ways_to_place_people_1.java) | [Watch](https://youtu.be/BnmGSG2wZo8) |
 | 3027 | Find The Number Of Ways To Place People 2 | [Java](3001-4000/3027_find_the_number_of_ways_to_place_people_2.java) | [Watch](https://youtu.be/uEY7hT8dlmM) |
 | 3074 | Apple Redistribution Into Boxes | [Java](3001-4000/3074_apple_redistribution_into_boxes.java) | - |
+| 3075 | Maximize Happiness Of Selected Children | [Java](3001-4000/3075_maximize_happiness_of_selected_children.java) | - |
 | 3100 | Water Bottles 2 | [Java](3001-4000/3100_water_bottles_2.java) | [Watch](https://youtu.be/UnFcSszk63g) |
 | 3147 | Taking Maximum Energy From The Mystic Dungeon | [Java](3001-4000/3147_taking_maximum_energy_from_the_mystic_dungeon.java) | [Watch](https://youtu.be/_BWUC7jviSE) |
 | 3186 | Maximum Total Damage With Spell Casting | [Java](3001-4000/3186_maximum_total_damage_with_spell_casting.java) | [Watch](https://youtu.be/fw4s2kOfZqU) |
