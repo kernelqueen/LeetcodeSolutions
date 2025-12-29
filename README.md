@@ -34,6 +34,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 498 | Diagonal Traverse | [Java](0001-1000/0498_diagonal_traverse.java) | [Watch](https://youtu.be/U4HTd0HZ1Cw) |
 | 611 | Valid Triangle Number | [Java](0001-1000/0611_valid_triangle_number.java) | [Watch](https://youtu.be/JibhVrg0pX8) |
 | 717 | 1 Bit And 2 Bit Characters | [Java](0001-1000/0717_1_bit_and_2_bit_characters.java) | [Watch](https://youtu.be/af132hoOTE8) |
+| 756 | Pyramid Transition Matrix | [Java](0001-1000/0756_pyramid_transition_matrix.java) | - |
 | 757 | Set Intersection Size At Least Two | [Java](0001-1000/0757_set_intersection_size_at_least_two.java) | - |
 | 778 | Swim In Rising Water | [Java](0001-1000/0778_swim_in_rising_water.java) | [Watch](https://youtu.be/vVcod2nDazo) |
 | 812 | Largest Triangle Area | [Java](0001-1000/0812_largest_triangle_area.java) | [Watch](https://youtu.be/mx2ErtASZN8) |
