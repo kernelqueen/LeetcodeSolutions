@@ -81,6 +81,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1925 | Count Square Sum Triplets | [Java](1001-2000/1925_count_square_sum_triplets.java) | - |
 | 1930 | Unique Length 3 Palindromic Subsequences | [Java](1001-2000/1930_unique_length_3_palindromic_subsequences.java) | - |
 | 1935 | Maximum Number Of Words You Can Type | [Java](1001-2000/1935_maximum_number_of_words_you_can_type.java) | [Watch](https://youtu.be/pPCbpVmE51k) |
+| 1970 | Last Day Where You Can Still Cross | [Java](1001-2000/1970_last_day_where_you_can_still_cross.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
