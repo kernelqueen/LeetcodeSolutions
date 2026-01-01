@@ -25,6 +25,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 11 | Container With Most Water | [Java](0001-1000/0011_container_with_most_water.java) | [Watch](https://youtu.be/HU7AvJpS5r8) |
 | 36 | Valid Sudoku | [Java](0001-1000/0036_valid_sudoku.java) | [Watch](https://youtu.be/5XiAi399_Nk) |
 | 37 | Sudoku Solver | [Java](0001-1000/0037_sudoku_solver.java) | [Watch](https://youtu.be/DeDTjUM8iIU) |
+| 66 | Plus One | [Java](0001-1000/0066_plus_one.java) | - |
 | 120 | Triangle | [Java](0001-1000/0120_triangle.java) | [Watch](https://youtu.be/IT7iwZOznHs) |
 | 165 | Compare Version Numbers | [Java](0001-1000/0165_compare_version_numbers.java) | [Watch](https://youtu.be/Gun-2gvTDo0) |
 | 166 | Fraction To Recurring Decimal | [Java](0001-1000/0166_fraction_to_recurring_decimal.java) | [Watch](https://youtu.be/tosMISGU0k4) |
