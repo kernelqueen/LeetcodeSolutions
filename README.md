@@ -45,6 +45,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 960 | Delete Columns To Make Sorted 3 | [Java](0001-1000/0960_delete_columns_to_make_sorted_3.java) | - |
 | 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) | [Watch](https://youtu.be/DL133nQ1qJQ) |
 | 976 | Largest Perimeter Triangle | [Java](0001-1000/0976_largest_perimeter_triangle.java) | [Watch](https://youtu.be/fo5RQ9HESIk) |
+| 961 | N-Repeated Element In Size 2N Array | [Java](0001-1000/961_n-repeated_element_in_size_2n_array.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
