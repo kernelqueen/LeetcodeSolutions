@@ -43,9 +43,9 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 944 | Delete Columns To Make Sorted | [Java](0001-1000/0944_delete_columns_to_make_sorted.java) | - |
 | 955 | Delete Columns To Make Sorted 2 | [Java](0001-1000/0955_delete_columns_to_make_sorted_2.java) | - |
 | 960 | Delete Columns To Make Sorted 3 | [Java](0001-1000/0960_delete_columns_to_make_sorted_3.java) | - |
+| 961 | N-Repeated Element In Size 2N Array | [Java](0001-1000/0961_n-repeated_element_in_size_2n_array.java) | - |
 | 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) | [Watch](https://youtu.be/DL133nQ1qJQ) |
 | 976 | Largest Perimeter Triangle | [Java](0001-1000/0976_largest_perimeter_triangle.java) | [Watch](https://youtu.be/fo5RQ9HESIk) |
-| 961 | N-Repeated Element In Size 2N Array | [Java](0001-1000/961_n-repeated_element_in_size_2n_array.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
@@ -64,6 +64,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1304 | Find N Unique Integers Sum Up To Zero | [Java](1001-2000/1304_find_n_unique_integers_sum_up_to_zero.java) | [Watch](https://youtu.be/VUOYUiX27pI) |
 | 1317 | Convert Integer To The Sum Of Two No Zero Integers | [Java](1001-2000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) | [Watch](https://youtu.be/GTMyUZsjM_I) |
 | 1351 | Count Negative Numbers In A Sorted Matrix | [Java](1001-2000/1351_count_negative_numbers_in_a_sorted_matrix.java) | - |
+| 1411 | Number Of Ways To Paint Nx3 Grid | [Java](1001-2000/1411_number_of_ways_to_paint_nx3_grid.java) | - |
 | 1437 | Check If All 1S Are At Least Length K Places Away | [Java](1001-2000/1437_check_if_all_1s_are_at_least_length_k_places_away.java) | [Watch](https://youtu.be/8DAGYg0TnjQ) |
 | 1488 | Avoid Flood In The City | [Java](1001-2000/1488_avoid_flood_in_the_city.java) | [Watch](https://youtu.be/FfDLYcmn1Fs) |
 | 1493 | Longest Subarray Of 1S After Deleting One Element | [Java](1001-2000/1493_longest_subarray_of_1s_after_deleting_one_element.java) | [Watch](https://youtu.be/twOZ7QVMlXM) |
