@@ -64,6 +64,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1304 | Find N Unique Integers Sum Up To Zero | [Java](1001-2000/1304_find_n_unique_integers_sum_up_to_zero.java) | [Watch](https://youtu.be/VUOYUiX27pI) |
 | 1317 | Convert Integer To The Sum Of Two No Zero Integers | [Java](1001-2000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) | [Watch](https://youtu.be/GTMyUZsjM_I) |
 | 1351 | Count Negative Numbers In A Sorted Matrix | [Java](1001-2000/1351_count_negative_numbers_in_a_sorted_matrix.java) | - |
+| 1390 | Four Divisors | [Java](1001-2000/1390_four_divisors.java) | - |
 | 1411 | Number Of Ways To Paint Nx3 Grid | [Java](1001-2000/1411_number_of_ways_to_paint_nx3_grid.java) | - |
 | 1437 | Check If All 1S Are At Least Length K Places Away | [Java](1001-2000/1437_check_if_all_1s_are_at_least_length_k_places_away.java) | [Watch](https://youtu.be/8DAGYg0TnjQ) |
 | 1488 | Avoid Flood In The City | [Java](1001-2000/1488_avoid_flood_in_the_city.java) | [Watch](https://youtu.be/FfDLYcmn1Fs) |
