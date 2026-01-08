@@ -69,6 +69,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1390 | Four Divisors | [Java](1001-2000/1390_four_divisors.java) | - |
 | 1411 | Number Of Ways To Paint Nx3 Grid | [Java](1001-2000/1411_number_of_ways_to_paint_nx3_grid.java) | - |
 | 1437 | Check If All 1S Are At Least Length K Places Away | [Java](1001-2000/1437_check_if_all_1s_are_at_least_length_k_places_away.java) | [Watch](https://youtu.be/8DAGYg0TnjQ) |
+| 1458 | Max Dot Product Of Two Subsequences | [Java](1001-2000/1458_max_dot_product_of_two_subsequences.java) | - |
 | 1488 | Avoid Flood In The City | [Java](1001-2000/1488_avoid_flood_in_the_city.java) | [Watch](https://youtu.be/FfDLYcmn1Fs) |
 | 1493 | Longest Subarray Of 1S After Deleting One Element | [Java](1001-2000/1493_longest_subarray_of_1s_after_deleting_one_element.java) | [Watch](https://youtu.be/twOZ7QVMlXM) |
 | 1504 | Count Submatrices With All Ones | [Java](1001-2000/1504_count_submatrices_with_all_ones.java) | [Watch](https://youtu.be/1y5Ihy1IiQg) |
