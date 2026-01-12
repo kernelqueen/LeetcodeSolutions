@@ -64,6 +64,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1039 | Minimum Score Triangulation Of Polygon | [Java](1001-2000/1039_minimum_score_triangulation_of_polygon.java) | [Watch](https://youtu.be/fFTJd4eCLD4) |
 | 1161 | Maximum Level Sum Of A Binary Tree | [Java](1001-2000/1161_maximum_level_sum_of_a_binary_tree.java) | - |
 | 1262 | Greatest Sum Divisible By Three | [Java](1001-2000/1262_greatest_sum_divisible_by_three.java) | - |
+| 1266 | Minimum Time Visiting All Points | [Java](1001-2000/1266_minimum_time_visiting_all_points.java) | - |
 | 1277 | Count Square Submatrices With All Ones | [Java](1001-2000/1277_count_square_submatrices_with_all_ones.java) | [Watch](https://youtu.be/kPsUlWV5vHA) |
 | 1304 | Find N Unique Integers Sum Up To Zero | [Java](1001-2000/1304_find_n_unique_integers_sum_up_to_zero.java) | [Watch](https://youtu.be/VUOYUiX27pI) |
 | 1317 | Convert Integer To The Sum Of Two No Zero Integers | [Java](1001-2000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) | [Watch](https://youtu.be/GTMyUZsjM_I) |
