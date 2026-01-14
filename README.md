@@ -176,6 +176,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3433 | Count Mentions Per User | [Java](3001-4000/3433_count_mentions_per_user.java) | - |
 | 3446 | Sort Matrix By Diagonals | [Java](3001-4000/3446_sort_matrix_by_diagonals.java) | [Watch](https://youtu.be/IetOlGYS4zk) |
 | 3453 | Separate Squares 1 | [Java](3001-4000/3453_separate_squares_1.java) | - |
+| 3454 | Separate Squares 2 | [Java](3001-4000/3454_separate_squares_2.java) | - |
 | 3459 | Length Of Longest Vshaped Diagonal Segment | [Java](3001-4000/3459_length_of_longest_vshaped_diagonal_segment.java) | [Watch](https://youtu.be/FBi28L16rME) |
 | 3461 | Check If Digits Are Equal In String After Operations 1 | [Java](3001-4000/3461_check_if_digits_are_equal_in_string_after_operations_1.java) | [Watch](https://youtu.be/eEltFIiZSCk) |
 | 3484 | Design Spreadsheet | [Java](3001-4000/3484_design_spreadsheet.java) | [Watch](https://youtu.be/6xA3D_MNi8o) |
