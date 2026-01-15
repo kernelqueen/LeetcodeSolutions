@@ -133,6 +133,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2749 | Minimum Operations To Make The Integer Zero | [Java](2001-3000/2749_minimum_operations_to_make_the_integer_zero.java) | [Watch](https://youtu.be/l3eJ2olhL5I) |
 | 2785 | Sort Vowels In A String | [Java](2001-3000/2785_sort_vowels_in_a_string.java) | [Watch](https://youtu.be/TvDuo7U4I1M) |
 | 2872 | Maximum Number Of K Divisible Components | [Java](2001-3000/2872_maximum_number_of_k_divisible_components.java) | - |
+| 2943 | Maximize Area Of Square Hole In Grid | [Java](2001-3000/2943_maximize_area_of_square_hole_in_grid.java) | - |
 | 3000 | Maximum Area Of Longest Diagonal Rectangle | [Java](2001-3000/3000_maximum_area_of_longest_diagonal_rectangle.java) | [Watch](https://youtu.be/fquOOxQJZ9s) |
 
 
