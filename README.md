@@ -166,6 +166,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3227 | Vowels Game In A String | [Java](3001-4000/3227_vowels_game_in_a_string.java) | [Watch](https://youtu.be/u7dE7KmiuGA) |
 | 3228 | Maximum Number Of Operations To Move Ones To The End | [Java](3001-4000/3228_maximum_number_of_operations_to_move_ones_to_the_end.java) | [Watch](https://youtu.be/eUUivwnjgpU) |
 | 3289 | The Two Sneaky Numbers Of Digitville | [Java](3001-4000/3289_the_two_sneaky_numbers_of_digitville.java) | [Watch](https://youtu.be/hRL50D2v5G4) |
+| 3314 | Construct The Minimum Bitwise Array 1 | [Java](3001-4000/3314_construct_the_minimum_bitwise_array_1.java) | - |
 | 3318 | Find X Sum Of All K Long Subarrays 1 | [Java](3001-4000/3318_find_x_sum_of_all_k_long_subarrays_1.java) | [Watch](https://youtu.be/oozPSNpWTdM) |
 | 3321 | Find X Sum Of All K Long Subarrays 2 | [Java](3001-4000/3321_find_x_sum_of_all_k_long_subarrays_2.java) | [Watch](https://youtu.be/Ddb21VENsAI) |
 | 3346 | Maximum Frequency Of An Element After Performing Operations 1 | [Java](3001-4000/3346_maximum_frequency_of_an_element_after_performing_operations_1.java) | [Watch](https://youtu.be/lD0PBKhw1Lo) |
