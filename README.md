@@ -191,6 +191,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3495 | Minimum Operations To Make Array Elements Zero | [Java](3001-4000/3495_minimum_operations_to_make_array_elements_zero.java) | [Watch](https://youtu.be/1JbxhrLqwNs) |
 | 3507 | Minimum Pair Removal To Sort Array 1 | [Java](3001-4000/3507_minimum_pair_removal_to_sort_array_1.java) | - |
 | 3508 | Implement Router | [Java](3001-4000/3508_implement_router.java) | [Watch](https://youtu.be/fYcdjdfDU2Q) |
+| 3510 | Minimum Pair Removal To Sort Array 2 | [Java](3001-4000/3510_minimum_pair_removal_to_sort_array_2.java) | - |
 | 3512 | Minimum Operations To Make Array Sum Divisible By K | [Java](3001-4000/3512_minimum_operations_to_make_array_sum_divisible_by_k.java) | - |
 | 3516 | Find Closest Person | [Java](3001-4000/3516_find_closest_person.java) | [Watch](https://youtu.be/-6z7V_TQ3z8) |
 | 3531 | Count Covered Buildings | [Java](3001-4000/3531_count_covered_buildings.java) | - |
