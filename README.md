@@ -89,6 +89,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1716 | Calculate Money In Leetcode Bank | [Java](1001-2000/1716_calculate_money_in_leetcode_bank.java) | [Watch](https://youtu.be/H9bGJVdqLEM) |
 | 1733 | Minimum Number Of People To Teach | [Java](1001-2000/1733_minimum_number_of_people_to_teach.java) | [Watch](https://youtu.be/5eOBp1wYcqA) |
 | 1792 | Maximum Average Pass Ratio | [Java](1001-2000/1792_maximum_average_pass_ratio.java) | [Watch](https://youtu.be/ba-d6nNSCQ8n) |
+| 1877 | Mimimize Maximum Pair Sum In Array | [Java](1001-2000/1877_mimimize_maximum_pair_sum_in_array.java) | - |
 | 1895 | Largest Magic Square | [Java](1001-2000/1895_largest_magic_square.java) | - |
 | 1912 | Design Movie Rental System | [Java](1001-2000/1912_design_movie_rental_system.java) | [Watch](https://youtu.be/acwizX111iU) |
 | 1925 | Count Square Sum Triplets | [Java](1001-2000/1925_count_square_sum_triplets.java) | - |
