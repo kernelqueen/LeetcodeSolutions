@@ -97,6 +97,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1935 | Maximum Number Of Words You Can Type | [Java](1001-2000/1935_maximum_number_of_words_you_can_type.java) | [Watch](https://youtu.be/pPCbpVmE51k) |
 | 1970 | Last Day Where You Can Still Cross | [Java](1001-2000/1970_last_day_where_you_can_still_cross.java) | - |
 | 1975 | Maximum Matrix Sum | [Java](1001-2000/1975_maximum_matrix_sum.java) | - |
+| 1984 | Minimum Difference Between Highest And Lowest Of K Scores | [Java](1001-2000/1984_minimum_difference_between_highest_and_lowest_of_k_scores.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
