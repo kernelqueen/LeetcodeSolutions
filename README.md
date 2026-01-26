@@ -63,6 +63,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1018 | Binary Prefix Divisible By 5 | [Java](1001-2000/1018_binary_prefix_divisible_by_5.java) | - |
 | 1039 | Minimum Score Triangulation Of Polygon | [Java](1001-2000/1039_minimum_score_triangulation_of_polygon.java) | [Watch](https://youtu.be/fFTJd4eCLD4) |
 | 1161 | Maximum Level Sum Of A Binary Tree | [Java](1001-2000/1161_maximum_level_sum_of_a_binary_tree.java) | - |
+| 1200 | Minimum Absolute Difference | [Java](1001-2000/1200_minimum_absolute_difference.java) | - |
 | 1262 | Greatest Sum Divisible By Three | [Java](1001-2000/1262_greatest_sum_divisible_by_three.java) | - |
 | 1266 | Minimum Time Visiting All Points | [Java](1001-2000/1266_minimum_time_visiting_all_points.java) | - |
 | 1277 | Count Square Submatrices With All Ones | [Java](1001-2000/1277_count_square_submatrices_with_all_ones.java) | [Watch](https://youtu.be/kPsUlWV5vHA) |
