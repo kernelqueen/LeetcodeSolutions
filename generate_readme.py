@@ -55,7 +55,7 @@ def main():
         "# LeetCode Solutions (Number-wise)\n",
         "This repository contains my solutions to LeetCode problems, organized **by problem number**.\n",
         "---\n",
-        "# Watch Explainations\n",
+        "# Watch Explanations\n",
         "Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Channel](https://www.youtube.com/@kernel-queen).\n",
         "---\n",
         "## 📂 Quick Navigation",
