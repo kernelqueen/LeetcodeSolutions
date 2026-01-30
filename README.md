@@ -141,6 +141,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2943 | Maximize Area Of Square Hole In Grid | [Java](2001-3000/2943_maximize_area_of_square_hole_in_grid.java) | [Watch](https://youtu.be/Jpa5M7Luoj8) |
 | 2975 | Maximum Square Area By Removing Fences From A Field | [Java](2001-3000/2975_maximum_square_area_by_removing_fences_from_a_field.java) | [Watch](https://youtu.be/OXJyYs6sUA4) |
 | 2976 | Minimum Cost To Convert String 1 | [Java](2001-3000/2976_minimum_cost_to_convert_string_1.java) | - |
+| 2977 | Minimum Cost To Convert String 2 | [Java](2001-3000/2977_minimum_cost_to_convert_string_2.java) | - |
 | 3000 | Maximum Area Of Longest Diagonal Rectangle | [Java](2001-3000/3000_maximum_area_of_longest_diagonal_rectangle.java) | [Watch](https://youtu.be/fquOOxQJZ9s) |
 
 
