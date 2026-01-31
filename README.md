@@ -37,6 +37,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 611 | Valid Triangle Number | [Java](0001-1000/0611_valid_triangle_number.java) | [Watch](https://youtu.be/JibhVrg0pX8) |
 | 712 | Minimum Ascii Delete Sum For Two Strings | [Java](0001-1000/0712_minimum_ascii_delete_sum_for_two_strings.java) | [Watch](https://youtu.be/-cwJl3iB4Oc) |
 | 717 | 1 Bit And 2 Bit Characters | [Java](0001-1000/0717_1_bit_and_2_bit_characters.java) | [Watch](https://youtu.be/af132hoOTE8) |
+| 744 | Find Smallest Letter Greater Than Target | [Java](0001-1000/0744_find_smallest_letter_greater_than_target.java) | - |
 | 756 | Pyramid Transition Matrix | [Java](0001-1000/0756_pyramid_transition_matrix.java) | [Watch](https://youtu.be/Appd-gHIWpA) |
 | 757 | Set Intersection Size At Least Two | [Java](0001-1000/0757_set_intersection_size_at_least_two.java) | [Watch](https://youtu.be/PvsXPNk7Q80) |
 | 778 | Swim In Rising Water | [Java](0001-1000/0778_swim_in_rising_water.java) | [Watch](https://youtu.be/vVcod2nDazo) |
