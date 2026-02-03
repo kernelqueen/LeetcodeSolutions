@@ -157,7 +157,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3003 | Maximize The Number Of Partitions After Operations | [Java](3001-4000/3003_maximize_the_number_of_partitions_after_operations.java) | [Watch](https://youtu.be/CIa8YBqAT2k) |
 | 3005 | Count Elements With Maximum Frequency | [Java](3001-4000/3005_count_elements_with_maximum_frequency.java) | [Watch](https://youtu.be/7TRzRqawvD4) |
 | 3010 | Divide An Array Into Subarrays With Minimum Cost 1 | [Java](3001-4000/3010_divide_an_array_into_subarrays_with_minimum_cost_1.java) | - |
-| 3012 | Divide An Array Into Subarrays With Minimum Cost 2 | [Java](3001-4000/3012_divide_an_array_into_subarrays_with_minimum_cost_2.java) | - |
+| 3013 | Divide An Array Into Subarrays With Minimum Cost 2 | [Java](3001-4000/3013_divide_an_array_into_subarrays_with_minimum_cost_2.java) | - |
 | 3021 | Alice And Bob Playing Flower Game | [Java](3001-4000/3021_alice_and_bob_playing_flower_game.java) | [Watch](https://youtu.be/LRhUaPMbNyI) |
 | 3025 | Find The Number Of Ways To Place People 1 | [Java](3001-4000/3025_find_the_number_of_ways_to_place_people_1.java) | [Watch](https://youtu.be/BnmGSG2wZo8) |
 | 3027 | Find The Number Of Ways To Place People 2 | [Java](3001-4000/3027_find_the_number_of_ways_to_place_people_2.java) | [Watch](https://youtu.be/uEY7hT8dlmM) |
@@ -213,6 +213,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3607 | Power Grid Maintenance | [Java](3001-4000/3607_power_grid_maintenance.java) | [Watch](https://youtu.be/B18kdsHEg9U) |
 | 3623 | Count Number Of Trapezoids 1 | [Java](3001-4000/3623_count_number_of_trapezoids_1.java) | [Watch](https://youtu.be/w5-bV9rf-MQ) |
 | 3625 | Count Number Of Trapezoids 2 | [Java](3001-4000/3625_count_number_of_trapezoids_2.java) | [Watch](https://youtu.be/tGplljOW_CM) |
+| 3637 | Trionic Array 1 | [Java](3001-4000/3637_trionic_array_1.java) | - |
 | 3650 | Minimum Cost Path With Edge Reversals | [Java](3001-4000/3650_minimum_cost_path_with_edge_reversals.java) | [Watch](https://youtu.be/pe2FJg9f-3k) |
 | 3651 | Minimum Cost Path With Teleportations | [Java](3001-4000/3651_minimum_cost_path_with_teleportations.java) | [Watch](https://youtu.be/0CsBHtem_TE) |
 | 3652 | Best Time To Buy And Sell Stock Using Strategy | [Java](3001-4000/3652_best_time_to_buy_and_Sell_stock_using_strategy.java) | [Watch](https://youtu.be/e__ARPrrES4) |
