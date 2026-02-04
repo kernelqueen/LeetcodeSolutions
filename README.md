@@ -214,6 +214,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3623 | Count Number Of Trapezoids 1 | [Java](3001-4000/3623_count_number_of_trapezoids_1.java) | [Watch](https://youtu.be/w5-bV9rf-MQ) |
 | 3625 | Count Number Of Trapezoids 2 | [Java](3001-4000/3625_count_number_of_trapezoids_2.java) | [Watch](https://youtu.be/tGplljOW_CM) |
 | 3637 | Trionic Array 1 | [Java](3001-4000/3637_trionic_array_1.java) | - |
+| 3640 | Trionic Array 2 | [Java](3001-4000/3640_trionic_array_2.java) | - |
 | 3650 | Minimum Cost Path With Edge Reversals | [Java](3001-4000/3650_minimum_cost_path_with_edge_reversals.java) | [Watch](https://youtu.be/pe2FJg9f-3k) |
 | 3651 | Minimum Cost Path With Teleportations | [Java](3001-4000/3651_minimum_cost_path_with_teleportations.java) | [Watch](https://youtu.be/0CsBHtem_TE) |
 | 3652 | Best Time To Buy And Sell Stock Using Strategy | [Java](3001-4000/3652_best_time_to_buy_and_Sell_stock_using_strategy.java) | [Watch](https://youtu.be/e__ARPrrES4) |
@@ -223,7 +224,6 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3677 | Count Binary Palindromic Numbers | [Java](3001-4000/3677_count_binary_palindromic_numbers.java) | [Watch](https://youtu.be/qsGNfQaE1As) |
 | 3683 | Earliest Time To Finish One Task | [Java](3001-4000/3683_earliest_time_to_finish_one_task.java) | [Watch](https://youtu.be/Fx0WmVTqP4M) |
 | 3684 | Maximize Sum Of At Most K Distinct Elements | [Java](3001-4000/3684_maximize_sum_of_at_most_k_distinct_elements.java) | [Watch](https://youtu.be/lWbD7G0KyKA) |
-| 4640 | Trionic Array 2 | [Java](3001-4000/4640_trionic_array_2.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
