@@ -184,6 +184,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3350 | Adjacent Increasing Subarrays Detection 2 | [Java](3001-4000/3350_adjacent_increasing_subarrays_detection_2.java) | [Watch](https://youtu.be/NHNaVjA8J5o) |
 | 3354 | Make Array Elements Equal To Zero | [Java](3001-4000/3354_make_array_elements_equal_to_zero.java) | [Watch](https://youtu.be/VdZsWltdsuY) |
 | 3370 | Smallest Number With All Set Bits | [Java](3001-4000/3370_smallest_number_with_all_set_bits.java) | [Watch](https://youtu.be/iWFqEBgNFiw) |
+| 3379 | Transformed Array | [Java](3001-4000/3379_transformed_array.java) | - |
 | 3381 | Maximum Subarray Sum With Length Divisible By K | [Java](3001-4000/3381_maximum_subarray_sum_with_length_divisible_by_k.java) | [Watch](https://youtu.be/WmuOWiAaTNg) |
 | 3397 | Maximum Number Of Distinct Elements After Operations | [Java](3001-4000/3397_maximum_number_of_distinct_elements_after_operations.java) | [Watch](https://youtu.be/4utTQOEICZs) |
 | 3408 | Design Task Manager | [Java](3001-4000/3408_design_task_manager.java) | [Watch](https://youtu.be/vVn5-WvzFJU) |
