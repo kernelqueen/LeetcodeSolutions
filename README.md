@@ -214,6 +214,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3607 | Power Grid Maintenance | [Java](3001-4000/3607_power_grid_maintenance.java) | [Watch](https://youtu.be/B18kdsHEg9U) |
 | 3623 | Count Number Of Trapezoids 1 | [Java](3001-4000/3623_count_number_of_trapezoids_1.java) | [Watch](https://youtu.be/w5-bV9rf-MQ) |
 | 3625 | Count Number Of Trapezoids 2 | [Java](3001-4000/3625_count_number_of_trapezoids_2.java) | [Watch](https://youtu.be/tGplljOW_CM) |
+| 3634 | Minimum Removals To Balance Array | [Java](3001-4000/3634_minimum_removals_to_balance_array.java) | - |
 | 3637 | Trionic Array 1 | [Java](3001-4000/3637_trionic_array_1.java) | - |
 | 3640 | Trionic Array 2 | [Java](3001-4000/3640_trionic_array_2.java) | - |
 | 3650 | Minimum Cost Path With Edge Reversals | [Java](3001-4000/3650_minimum_cost_path_with_edge_reversals.java) | [Watch](https://youtu.be/pe2FJg9f-3k) |
