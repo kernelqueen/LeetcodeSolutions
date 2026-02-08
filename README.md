@@ -27,6 +27,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 37 | Sudoku Solver | [Java](0001-1000/0037_sudoku_solver.java) | [Watch](https://youtu.be/DeDTjUM8iIU) |
 | 66 | Plus One | [Java](0001-1000/0066_plus_one.java) | [Watch](https://youtu.be/cJ7FQYCwfkk) |
 | 85 | Maximal Rectangle | [Java](0001-1000/0085_maximal_rectangle.java) | [Watch](https://youtu.be/wHF549KKh3k) |
+| 110 | Balanced Binary Tree | [Java](0001-1000/0110_balanced_binary_tree.java) | - |
 | 120 | Triangle | [Java](0001-1000/0120_triangle.java) | [Watch](https://youtu.be/IT7iwZOznHs) |
 | 165 | Compare Version Numbers | [Java](0001-1000/0165_compare_version_numbers.java) | [Watch](https://youtu.be/Gun-2gvTDo0) |
 | 166 | Fraction To Recurring Decimal | [Java](0001-1000/0166_fraction_to_recurring_decimal.java) | [Watch](https://youtu.be/tosMISGU0k4) |
