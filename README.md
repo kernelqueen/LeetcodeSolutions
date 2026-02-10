@@ -229,6 +229,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3677 | Count Binary Palindromic Numbers | [Java](3001-4000/3677_count_binary_palindromic_numbers.java) | [Watch](https://youtu.be/qsGNfQaE1As) |
 | 3683 | Earliest Time To Finish One Task | [Java](3001-4000/3683_earliest_time_to_finish_one_task.java) | [Watch](https://youtu.be/Fx0WmVTqP4M) |
 | 3684 | Maximize Sum Of At Most K Distinct Elements | [Java](3001-4000/3684_maximize_sum_of_at_most_k_distinct_elements.java) | [Watch](https://youtu.be/lWbD7G0KyKA) |
+| 3719 | Longest Balanced Subarray 1 | [Java](3001-4000/3719_longest_balanced_subarray_1.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
