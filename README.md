@@ -230,6 +230,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3683 | Earliest Time To Finish One Task | [Java](3001-4000/3683_earliest_time_to_finish_one_task.java) | [Watch](https://youtu.be/Fx0WmVTqP4M) |
 | 3684 | Maximize Sum Of At Most K Distinct Elements | [Java](3001-4000/3684_maximize_sum_of_at_most_k_distinct_elements.java) | [Watch](https://youtu.be/lWbD7G0KyKA) |
 | 3713 | Longest Balanced Substring 1 | [Java](3001-4000/3713_longest_balanced_substring_1.java) | - |
+| 3714 | Longest Balanced Substring 2 | [Java](3001-4000/3714_longest_balanced_substring_2.java) | - |
 | 3719 | Longest Balanced Subarray 1 | [Java](3001-4000/3719_longest_balanced_subarray_1.java) | - |
 | 3721 | Longest Balanced Subarray 2 | [Java](3001-4000/3721_longest_balanced_subarray_2.java) | - |
 
