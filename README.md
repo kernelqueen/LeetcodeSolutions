@@ -33,6 +33,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 165 | Compare Version Numbers | [Java](0001-1000/0165_compare_version_numbers.java) | [Watch](https://youtu.be/Gun-2gvTDo0) |
 | 166 | Fraction To Recurring Decimal | [Java](0001-1000/0166_fraction_to_recurring_decimal.java) | [Watch](https://youtu.be/tosMISGU0k4) |
 | 190 | Reverse Bits | [Java](0001-1000/0190_reverse_bits.java) | - |
+| 401 | Binary Watch | [Java](0001-1000/0401_binary_watch.java) | - |
 | 407 | Trapping Rain Water 2 | [Java](0001-1000/0407_trapping_rain_Water_2.java) | [Watch](https://youtu.be/tOooe6j8aJw) |
 | 417 | Pacific Atlantic Water Flow | [Java](0001-1000/0417_pacific_atlantic_water_flow.java) | [Watch](https://youtu.be/H560sTQGG7Q) |
 | 474 | Ones And Zeroes | [Java](0001-1000/0474_ones_and_zeroes.java) | [Watch](https://youtu.be/FBRdjPlgJr0) |
