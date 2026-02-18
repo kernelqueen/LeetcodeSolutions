@@ -39,6 +39,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 474 | Ones And Zeroes | [Java](0001-1000/0474_ones_and_zeroes.java) | [Watch](https://youtu.be/FBRdjPlgJr0) |
 | 498 | Diagonal Traverse | [Java](0001-1000/0498_diagonal_traverse.java) | [Watch](https://youtu.be/U4HTd0HZ1Cw) |
 | 611 | Valid Triangle Number | [Java](0001-1000/0611_valid_triangle_number.java) | [Watch](https://youtu.be/JibhVrg0pX8) |
+| 693 | Binary Number With Alternating Bits | [Java](0001-1000/0693_binary_number_with_alternating_bits.java) | - |
 | 712 | Minimum Ascii Delete Sum For Two Strings | [Java](0001-1000/0712_minimum_ascii_delete_sum_for_two_strings.java) | [Watch](https://youtu.be/-cwJl3iB4Oc) |
 | 717 | 1 Bit And 2 Bit Characters | [Java](0001-1000/0717_1_bit_and_2_bit_characters.java) | [Watch](https://youtu.be/af132hoOTE8) |
 | 744 | Find Smallest Letter Greater Than Target | [Java](0001-1000/0744_find_smallest_letter_greater_than_target.java) | - |
