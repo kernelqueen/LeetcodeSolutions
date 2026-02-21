@@ -46,6 +46,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 744 | Find Smallest Letter Greater Than Target | [Java](0001-1000/0744_find_smallest_letter_greater_than_target.java) | - |
 | 756 | Pyramid Transition Matrix | [Java](0001-1000/0756_pyramid_transition_matrix.java) | [Watch](https://youtu.be/Appd-gHIWpA) |
 | 757 | Set Intersection Size At Least Two | [Java](0001-1000/0757_set_intersection_size_at_least_two.java) | [Watch](https://youtu.be/PvsXPNk7Q80) |
+| 762 | Prime Number Of Set Bits In Binary Representation | [Java](0001-1000/0762_prime_number_of_Set_bits_in_binary_representation.java) | - |
 | 778 | Swim In Rising Water | [Java](0001-1000/0778_swim_in_rising_water.java) | [Watch](https://youtu.be/vVcod2nDazo) |
 | 799 | Champagne Tower | [Java](0001-1000/0799_champagne_tower.java) | - |
 | 812 | Largest Triangle Area | [Java](0001-1000/0812_largest_triangle_area.java) | [Watch](https://youtu.be/mx2ErtASZN8) |
