@@ -52,6 +52,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 812 | Largest Triangle Area | [Java](0001-1000/0812_largest_triangle_area.java) | [Watch](https://youtu.be/mx2ErtASZN8) |
 | 840 | Magic Squares In Grid | [Java](0001-1000/0840_magic_squares_in_grid.java) | [Watch](https://youtu.be/bTBhl-ihqdk) |
 | 865 | Smallest Subtree With All The Deepest Nodes | [Java](0001-1000/0865_smallest_subtree_with_all_the_deepest_nodes.java) | [Watch](https://youtu.be/ai2mgiZefn4) |
+| 868 | Binary Gap | [Java](0001-1000/0868_binary_gap.java) | - |
 | 944 | Delete Columns To Make Sorted | [Java](0001-1000/0944_delete_columns_to_make_sorted.java) | [Watch](https://youtu.be/tFn9krNGX5g) |
 | 955 | Delete Columns To Make Sorted 2 | [Java](0001-1000/0955_delete_columns_to_make_sorted_2.java) | [Watch](https://youtu.be/Ed1juWHthV0) |
 | 960 | Delete Columns To Make Sorted 3 | [Java](0001-1000/0960_delete_columns_to_make_sorted_3.java) | [Watch](https://youtu.be/iI2B9qZ_yEQ) |
