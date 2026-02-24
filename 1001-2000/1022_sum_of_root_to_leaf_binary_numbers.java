@@ -1,7 +1,4 @@
 /* Approach 1: Using String */
-/**
-
- */
 class Solution {
     public int sumRootToLeaf(TreeNode root) {
         return helper(root, "");
