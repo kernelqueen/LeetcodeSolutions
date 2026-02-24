@@ -71,6 +71,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 |---|-------|----------|-------|
 | 1015 | Smallest Integer Divisible By K | [Java](1001-2000/1015_smallest_integer_divisible_by_k.java) | [Watch](https://youtu.be/ry3hoEEokyI) |
 | 1018 | Binary Prefix Divisible By 5 | [Java](1001-2000/1018_binary_prefix_divisible_by_5.java) | [Watch](https://youtu.be/ks5R-4tewJs) |
+| 1022 | Sum Of Root To Leaf Binary Numbers | [Java](1001-2000/1022_sum_of_root_to_leaf_binary_numbers.java) | - |
 | 1039 | Minimum Score Triangulation Of Polygon | [Java](1001-2000/1039_minimum_score_triangulation_of_polygon.java) | [Watch](https://youtu.be/fFTJd4eCLD4) |
 | 1161 | Maximum Level Sum Of A Binary Tree | [Java](1001-2000/1161_maximum_level_sum_of_a_binary_tree.java) | [Watch](https://youtu.be/3ql1AH3a_xg) |
 | 1200 | Minimum Absolute Difference | [Java](1001-2000/1200_minimum_absolute_difference.java) | [Watch](https://youtu.be/Qmx6Eoi5-7k) |
