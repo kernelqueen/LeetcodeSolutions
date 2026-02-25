@@ -83,6 +83,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1317 | Convert Integer To The Sum Of Two No Zero Integers | [Java](1001-2000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) | [Watch](https://youtu.be/GTMyUZsjM_I) |
 | 1339 | Maximum Product Of A Splitted Binary Tree | [Java](1001-2000/1339_maximum_product_of_a_splitted_binary_tree.java) | [Watch](https://youtu.be/zGIGZ3GEsns) |
 | 1351 | Count Negative Numbers In A Sorted Matrix | [Java](1001-2000/1351_count_negative_numbers_in_a_sorted_matrix.java) | [Watch](https://youtu.be/l8k4IGwufyw) |
+| 1356 | Sort Integers By The Number Of 1 Bits | [Java](1001-2000/1356_sort_integers_by_the_number_of_1_bits.java) | - |
 | 1382 | Balance A Binary Search Tree | [Java](1001-2000/1382_balance_a_binary_search_tree.java) | - |
 | 1390 | Four Divisors | [Java](1001-2000/1390_four_divisors.java) | [Watch](https://youtu.be/_VHtYKIvVw8) |
 | 1411 | Number Of Ways To Paint Nx3 Grid | [Java](1001-2000/1411_number_of_ways_to_paint_nx3_grid.java) | [Watch](https://youtu.be/i3ahuTWtigs) |
