@@ -102,6 +102,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1611 | Minimum One Bit Operations To Make Integers Zero | [Java](1001-2000/1611_minimum_one_bit_operations_to_make_integers_zero.java) | [Watch](https://youtu.be/h9Gi2JFfO6A) |
 | 1625 | Lexicographically Smallest String After Applying Operations | [Java](1001-2000/1625_lexicographically_smallest_string_after_applying_operations.java) | [Watch](https://youtu.be/_XIpqogafRM) |
 | 1653 | Minimum Deletions To Make String Balanced | [Java](1001-2000/1653_minimum_deletions_to_make_string_balanced.java) | - |
+| 1689 | Concatenation Of Consecutive Binary Numbers | [Java](1001-2000/1689_concatenation_of_consecutive_binary_numbers.java) | - |
 | 1716 | Calculate Money In Leetcode Bank | [Java](1001-2000/1716_calculate_money_in_leetcode_bank.java) | [Watch](https://youtu.be/H9bGJVdqLEM) |
 | 1733 | Minimum Number Of People To Teach | [Java](1001-2000/1733_minimum_number_of_people_to_teach.java) | [Watch](https://youtu.be/5eOBp1wYcqA) |
 | 1792 | Maximum Average Pass Ratio | [Java](1001-2000/1792_maximum_average_pass_ratio.java) | [Watch](https://youtu.be/ba-d6nNSCQ8n) |
