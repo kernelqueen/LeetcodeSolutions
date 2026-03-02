@@ -97,6 +97,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1518 | Water Bottles | [Java](1001-2000/1518_water_bottles.java) | [Watch](https://youtu.be/RH8yUhWYu_U) |
 | 1523 | Count Odd Numbers In An Interval Range | [Java](1001-2000/1523_count_odd_numbers_in_an_interval_range.java) | [Watch](https://youtu.be/3-n67ytnv2I) |
 | 1526 | Minimum Number Of Increments On Subarrays To Form A Target Array | [Java](1001-2000/1526_minimum_number_of_increments_on_subarrays_to_form_a_target_array.java) | [Watch](https://youtu.be/7PZZTid-PEc) |
+| 1536 | Minimum Swaps To Arrange A Binary Grid | [Java](1001-2000/1536_minimum_swaps_to_arrange_a_binary_grid.java) | - |
 | 1578 | Minimum Time To Make Rope Colorful | [Java](1001-2000/1578_minimum_time_to_make_rope_colorful.java) | [Watch](https://youtu.be/n93YcylrgcM) |
 | 1590 | Make Some Divisible By P | [Java](1001-2000/1590_make_some_divisible_by_p.java) | [Watch](https://youtu.be/o9HUMQF4T4k) |
 | 1611 | Minimum One Bit Operations To Make Integers Zero | [Java](1001-2000/1611_minimum_one_bit_operations_to_make_integers_zero.java) | [Watch](https://youtu.be/h9Gi2JFfO6A) |
