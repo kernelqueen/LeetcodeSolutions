@@ -100,6 +100,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1536 | Minimum Swaps To Arrange A Binary Grid | [Java](1001-2000/1536_minimum_swaps_to_arrange_a_binary_grid.java) | - |
 | 1545 | Find Kth Bit In Nth Binary String | [Java](1001-2000/1545_find_kth_bit_in_nth_binary_string.java) | - |
 | 1578 | Minimum Time To Make Rope Colorful | [Java](1001-2000/1578_minimum_time_to_make_rope_colorful.java) | [Watch](https://youtu.be/n93YcylrgcM) |
+| 1582 | Special Positions In A Binary Matrix | [Java](1001-2000/1582_special_positions_in_a_binary_matrix.java) | - |
 | 1590 | Make Some Divisible By P | [Java](1001-2000/1590_make_some_divisible_by_p.java) | [Watch](https://youtu.be/o9HUMQF4T4k) |
 | 1611 | Minimum One Bit Operations To Make Integers Zero | [Java](1001-2000/1611_minimum_one_bit_operations_to_make_integers_zero.java) | [Watch](https://youtu.be/h9Gi2JFfO6A) |
 | 1625 | Lexicographically Smallest String After Applying Operations | [Java](1001-2000/1625_lexicographically_smallest_string_after_applying_operations.java) | [Watch](https://youtu.be/_XIpqogafRM) |
