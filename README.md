@@ -113,6 +113,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1784 | Check If Binary String Has At Most One Segement Of Ones | [Java](1001-2000/1784_check_if_binary_string_has_at_most_one_segement_of_ones.java) | - |
 | 1792 | Maximum Average Pass Ratio | [Java](1001-2000/1792_maximum_average_pass_ratio.java) | [Watch](https://youtu.be/ba-d6nNSCQ8n) |
 | 1877 | Mimimize Maximum Pair Sum In Array | [Java](1001-2000/1877_mimimize_maximum_pair_sum_in_array.java) | [Watch](https://youtu.be/RDbN_Qnqlc0) |
+| 1888 | Minimum Number Of Flips To Make The Binary String Alternating | [Java](1001-2000/1888_minimum_number_of_flips_to_make_the_binary_string_alternating.java) | - |
 | 1895 | Largest Magic Square | [Java](1001-2000/1895_largest_magic_square.java) | [Watch](https://youtu.be/pmBVK4Clb8k) |
 | 1912 | Design Movie Rental System | [Java](1001-2000/1912_design_movie_rental_system.java) | [Watch](https://youtu.be/acwizX111iU) |
 | 1925 | Count Square Sum Triplets | [Java](1001-2000/1925_count_square_sum_triplets.java) | [Watch](https://youtu.be/Fr7WfgCeEFg) |
