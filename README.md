@@ -69,6 +69,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 
 | # | Title | Solution | Video |
 |---|-------|----------|-------|
+| 1009 | Complement Of Base 10 Integer | [Java](1001-2000/1009_complement_of_base_10_integer.java) | - |
 | 1015 | Smallest Integer Divisible By K | [Java](1001-2000/1015_smallest_integer_divisible_by_k.java) | [Watch](https://youtu.be/ry3hoEEokyI) |
 | 1018 | Binary Prefix Divisible By 5 | [Java](1001-2000/1018_binary_prefix_divisible_by_5.java) | [Watch](https://youtu.be/ks5R-4tewJs) |
 | 1022 | Sum Of Root To Leaf Binary Numbers | [Java](1001-2000/1022_sum_of_root_to_leaf_binary_numbers.java) | - |
