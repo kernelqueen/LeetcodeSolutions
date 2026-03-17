@@ -109,6 +109,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1680 | Concatenation Of Consecutive Binary Numbers | [Java](1001-2000/1680_concatenation_of_consecutive_binary_numbers.java) | - |
 | 1689 | Partitioning Into Minimum Numbers Of Deci Binary Numbers | [Java](1001-2000/1689_partitioning_into_minimum_numbers_of_deci_binary_numbers.java) | - |
 | 1716 | Calculate Money In Leetcode Bank | [Java](1001-2000/1716_calculate_money_in_leetcode_bank.java) | [Watch](https://youtu.be/H9bGJVdqLEM) |
+| 1727 | Largest Submatrix With Rearrangements | [Java](1001-2000/1727_largest_submatrix_with_rearrangements.java) | - |
 | 1733 | Minimum Number Of People To Teach | [Java](1001-2000/1733_minimum_number_of_people_to_teach.java) | [Watch](https://youtu.be/5eOBp1wYcqA) |
 | 1758 | Minimum Changes To Make Alternating Binary String | [Java](1001-2000/1758_minimum_changes_to_make_alternating_binary_string.java) | - |
 | 1784 | Check If Binary String Has At Most One Segement Of Ones | [Java](1001-2000/1784_check_if_binary_string_has_at_most_one_segement_of_ones.java) | - |
