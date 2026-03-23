@@ -103,6 +103,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1578 | Minimum Time To Make Rope Colorful | [Java](1001-2000/1578_minimum_time_to_make_rope_colorful.java) | [Watch](https://youtu.be/n93YcylrgcM) |
 | 1582 | Special Positions In A Binary Matrix | [Java](1001-2000/1582_special_positions_in_a_binary_matrix.java) | - |
 | 1590 | Make Some Divisible By P | [Java](1001-2000/1590_make_some_divisible_by_p.java) | [Watch](https://youtu.be/o9HUMQF4T4k) |
+| 1594 | Maximum Non Negative Product In A Matrix | [Java](1001-2000/1594_maximum_non_negative_product_in_a_matrix.java) | - |
 | 1611 | Minimum One Bit Operations To Make Integers Zero | [Java](1001-2000/1611_minimum_one_bit_operations_to_make_integers_zero.java) | [Watch](https://youtu.be/h9Gi2JFfO6A) |
 | 1625 | Lexicographically Smallest String After Applying Operations | [Java](1001-2000/1625_lexicographically_smallest_string_after_applying_operations.java) | [Watch](https://youtu.be/_XIpqogafRM) |
 | 1653 | Minimum Deletions To Make String Balanced | [Java](1001-2000/1653_minimum_deletions_to_make_string_balanced.java) | - |
@@ -115,6 +116,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1784 | Check If Binary String Has At Most One Segement Of Ones | [Java](1001-2000/1784_check_if_binary_string_has_at_most_one_segement_of_ones.java) | - |
 | 1792 | Maximum Average Pass Ratio | [Java](1001-2000/1792_maximum_average_pass_ratio.java) | [Watch](https://youtu.be/ba-d6nNSCQ8n) |
 | 1877 | Mimimize Maximum Pair Sum In Array | [Java](1001-2000/1877_mimimize_maximum_pair_sum_in_array.java) | [Watch](https://youtu.be/RDbN_Qnqlc0) |
+| 1886 | Determine Whether Matrix Can Be Obtained By Rotation | [Java](1001-2000/1886_determine_whether_matrix_can_be_obtained_by_rotation.java) | - |
 | 1888 | Minimum Number Of Flips To Make The Binary String Alternating | [Java](1001-2000/1888_minimum_number_of_flips_to_make_the_binary_string_alternating.java) | - |
 | 1895 | Largest Magic Square | [Java](1001-2000/1895_largest_magic_square.java) | [Watch](https://youtu.be/pmBVK4Clb8k) |
 | 1912 | Design Movie Rental System | [Java](1001-2000/1912_design_movie_rental_system.java) | [Watch](https://youtu.be/acwizX111iU) |
@@ -198,6 +200,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3190 | Find Minimum Number Of Operations-To Make All Elements Divisible By Three | [Java](3001-4000/3190_find_minimum_number_of_operations-to_make_All_elements_divisible_by_three.java) | [Watch](https://youtu.be/K6MDeSmgg3I) |
 | 3195 | Find The Minimum Area To Cover All Ones 1 | [Java](3001-4000/3195_find_the_minimum_area_to_cover_all_ones_1.java) | [Watch](https://youtu.be/jbMrCsU9KeY) |
 | 3197 | Find The Minimum Area To Cover All Ones 2 | [Java](3001-4000/3197_find_the_minimum_area_to_cover_all_ones_2.java) | [Watch](https://youtu.be/X8FnwUP5RL4) |
+| 3212 | Count Submatrices With Equal Frequency Of X And Y | [Java](3001-4000/3212_count_submatrices_with_equal_frequency_of_x_and_y.java) | - |
 | 3217 | Delete Nodes From Linked List Present In Array | [Java](3001-4000/3217_delete_nodes_from_linked_list_present_in_array.java) | [Watch](https://youtu.be/K-U3QhAJE2s) |
 | 3227 | Vowels Game In A String | [Java](3001-4000/3227_vowels_game_in_a_string.java) | [Watch](https://youtu.be/u7dE7KmiuGA) |
 | 3228 | Maximum Number Of Operations To Move Ones To The End | [Java](3001-4000/3228_maximum_number_of_operations_to_move_ones_to_the_end.java) | [Watch](https://youtu.be/eUUivwnjgpU) |
@@ -234,6 +237,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3531 | Count Covered Buildings | [Java](3001-4000/3531_count_covered_buildings.java) | [Watch](https://youtu.be/-navjsd0lO0) |
 | 3541 | Find Most Frequent Vowel And Consonant | [Java](3001-4000/3541_find_most_frequent_vowel_and_consonant.java) | [Watch](https://youtu.be/TF-8ALq-pTk) |
 | 3542 | Minimum Operations To Convert All Elements To Zero | [Java](3001-4000/3542_minimum_operations_to_convert_all_elements_to_zero.java) | [Watch](https://youtu.be/D4z1iYHpc1k) |
+| 3567 | Minimum Absolute Difference In Sliding Submatrix | [Java](3001-4000/3567_minimum_absolute_difference_in_sliding_submatrix.java) | - |
 | 3573 | Best Time To Buy And Sell Stocks 5 | [Java](3001-4000/3573_best_time_to_buy_and_sell_stocks_5.java) | [Watch](https://youtu.be/3dFt2G0EfbQ) |
 | 3577 | Count The Number Of Computer Unlocking Permutations | [Java](3001-4000/3577_count_the_number_of_computer_unlocking_permutations.java) | [Watch](https://youtu.be/4vOst5thgEY) |
 | 3578 | Count Partitions With Max Min Difference At Most K | [Java](3001-4000/3578_count_partitions_with_max_min_difference_at_most_k.java) | [Watch](https://youtu.be/LqeNPY9gzgU) |
@@ -245,6 +249,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3634 | Minimum Removals To Balance Array | [Java](3001-4000/3634_minimum_removals_to_balance_array.java) | - |
 | 3637 | Trionic Array 1 | [Java](3001-4000/3637_trionic_array_1.java) | - |
 | 3640 | Trionic Array 2 | [Java](3001-4000/3640_trionic_array_2.java) | - |
+| 3643 | Flip Square Submatrix Vertically | [Java](3001-4000/3643_flip_square_submatrix_vertically.java) | - |
 | 3650 | Minimum Cost Path With Edge Reversals | [Java](3001-4000/3650_minimum_cost_path_with_edge_reversals.java) | [Watch](https://youtu.be/pe2FJg9f-3k) |
 | 3651 | Minimum Cost Path With Teleportations | [Java](3001-4000/3651_minimum_cost_path_with_teleportations.java) | [Watch](https://youtu.be/0CsBHtem_TE) |
 | 3652 | Best Time To Buy And Sell Stock Using Strategy | [Java](3001-4000/3652_best_time_to_buy_and_Sell_stock_using_strategy.java) | [Watch](https://youtu.be/e__ARPrrES4) |
