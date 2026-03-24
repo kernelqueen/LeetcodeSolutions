@@ -166,6 +166,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2749 | Minimum Operations To Make The Integer Zero | [Java](2001-3000/2749_minimum_operations_to_make_the_integer_zero.java) | [Watch](https://youtu.be/l3eJ2olhL5I) |
 | 2785 | Sort Vowels In A String | [Java](2001-3000/2785_sort_vowels_in_a_string.java) | [Watch](https://youtu.be/TvDuo7U4I1M) |
 | 2872 | Maximum Number Of K Divisible Components | [Java](2001-3000/2872_maximum_number_of_k_divisible_components.java) | [Watch](https://youtu.be/f9vDTkK2KBg) |
+| 2906 | Construct Product Matrix | [Java](2001-3000/2906_construct_product_matrix.java) | - |
 | 2943 | Maximize Area Of Square Hole In Grid | [Java](2001-3000/2943_maximize_area_of_square_hole_in_grid.java) | [Watch](https://youtu.be/Jpa5M7Luoj8) |
 | 2975 | Maximum Square Area By Removing Fences From A Field | [Java](2001-3000/2975_maximum_square_area_by_removing_fences_from_a_field.java) | [Watch](https://youtu.be/OXJyYs6sUA4) |
 | 2976 | Minimum Cost To Convert String 1 | [Java](2001-3000/2976_minimum_cost_to_convert_string_1.java) | - |
