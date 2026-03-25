@@ -238,6 +238,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3531 | Count Covered Buildings | [Java](3001-4000/3531_count_covered_buildings.java) | [Watch](https://youtu.be/-navjsd0lO0) |
 | 3541 | Find Most Frequent Vowel And Consonant | [Java](3001-4000/3541_find_most_frequent_vowel_and_consonant.java) | [Watch](https://youtu.be/TF-8ALq-pTk) |
 | 3542 | Minimum Operations To Convert All Elements To Zero | [Java](3001-4000/3542_minimum_operations_to_convert_all_elements_to_zero.java) | [Watch](https://youtu.be/D4z1iYHpc1k) |
+| 3546 | Equal Sum Grid Partition 1 | [Java](3001-4000/3546_equal_sum_grid_partition_1.java) | - |
 | 3567 | Minimum Absolute Difference In Sliding Submatrix | [Java](3001-4000/3567_minimum_absolute_difference_in_sliding_submatrix.java) | - |
 | 3573 | Best Time To Buy And Sell Stocks 5 | [Java](3001-4000/3573_best_time_to_buy_and_sell_stocks_5.java) | [Watch](https://youtu.be/3dFt2G0EfbQ) |
 | 3577 | Count The Number Of Computer Unlocking Permutations | [Java](3001-4000/3577_count_the_number_of_computer_unlocking_permutations.java) | [Watch](https://youtu.be/4vOst5thgEY) |
