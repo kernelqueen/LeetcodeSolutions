@@ -161,13 +161,18 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2483 | Minimum Penalty For A Shop | [Java](2001-3000/2483_minimum_penalty_for_a_shop.java) | [Watch](https://youtu.be/r-XeXgRupM8) |
 | 2528 | Maximize The Minimum Powered City | [Java](2001-3000/2528_maximize_the_minimum_powered_city.java) | [Watch](https://youtu.be/8xjUS1S1UpM) |
 | 2536 | Increment Submatrices By One | [Java](2001-3000/2536_increment_submatrices_by_one.java) | [Watch](https://youtu.be/ZKFR1yBYjIY) |
+| 2573 | Find The String With Lcp | [Java](2001-3000/2573_find_the_string_with_lcp.java) | - |
 | 2598 | Smallest Missing Non Negative Integer After Operations | [Java](2001-3000/2598_smallest_missing_non_negative_integer_after_operations.java) | [Watch](https://youtu.be/XBwzPRQodUQ) |
 | 2654 | Minimum Number Of Operations To Make All Array Elements Equal To1 | [Java](2001-3000/2654_minimum_number_of_operations_to_make_all_array_elements_equal_to1.java) | [Watch]() |
 | 2749 | Minimum Operations To Make The Integer Zero | [Java](2001-3000/2749_minimum_operations_to_make_the_integer_zero.java) | [Watch](https://youtu.be/l3eJ2olhL5I) |
+| 2751 | Robot Collisions | [Java](2001-3000/2751_robot_collisions.java) | - |
 | 2785 | Sort Vowels In A String | [Java](2001-3000/2785_sort_vowels_in_a_string.java) | [Watch](https://youtu.be/TvDuo7U4I1M) |
+| 2839 | Check If Strings Can Be Made Equal With Operations 1 | [Java](2001-3000/2839_check_if_strings_can_be_made_equal_with_operations_1.java) | - |
+| 2840 | Check If Strings Can Be Made Equal With Operations 2 | [Java](2001-3000/2840_check_if_strings_can_be_made_equal_with_operations_2.java) | - |
 | 2872 | Maximum Number Of K Divisible Components | [Java](2001-3000/2872_maximum_number_of_k_divisible_components.java) | [Watch](https://youtu.be/f9vDTkK2KBg) |
 | 2906 | Construct Product Matrix | [Java](2001-3000/2906_construct_product_matrix.java) | - |
 | 2943 | Maximize Area Of Square Hole In Grid | [Java](2001-3000/2943_maximize_area_of_square_hole_in_grid.java) | [Watch](https://youtu.be/Jpa5M7Luoj8) |
+| 2946 | Matrix Similarity After Cyclic Shift | [Java](2001-3000/2946_matrix_similarity_after_cyclic_shift.java) | - |
 | 2975 | Maximum Square Area By Removing Fences From A Field | [Java](2001-3000/2975_maximum_square_area_by_removing_fences_from_a_field.java) | [Watch](https://youtu.be/OXJyYs6sUA4) |
 | 2976 | Minimum Cost To Convert String 1 | [Java](2001-3000/2976_minimum_cost_to_convert_string_1.java) | - |
 | 2977 | Minimum Cost To Convert String 2 | [Java](2001-3000/2977_minimum_cost_to_convert_string_2.java) | - |
@@ -220,6 +225,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3381 | Maximum Subarray Sum With Length Divisible By K | [Java](3001-4000/3381_maximum_subarray_sum_with_length_divisible_by_k.java) | [Watch](https://youtu.be/WmuOWiAaTNg) |
 | 3397 | Maximum Number Of Distinct Elements After Operations | [Java](3001-4000/3397_maximum_number_of_distinct_elements_after_operations.java) | [Watch](https://youtu.be/4utTQOEICZs) |
 | 3408 | Design Task Manager | [Java](3001-4000/3408_design_task_manager.java) | [Watch](https://youtu.be/vVn5-WvzFJU) |
+| 3418 | Maximum Amount Of Money Robot Can Earn | [Java](3001-4000/3418_maximum_amount_of_money_robot_can_earn.java) | - |
 | 3432 | Count Partitions With Even Sum Difference | [Java](3001-4000/3432_count_partitions_with_even_sum_difference.java) | [Watch](https://youtu.be/a554KEL9KXI) |
 | 3433 | Count Mentions Per User | [Java](3001-4000/3433_count_mentions_per_user.java) | [Watch](https://youtu.be/HGoGyMa23Tg) |
 | 3446 | Sort Matrix By Diagonals | [Java](3001-4000/3446_sort_matrix_by_diagonals.java) | [Watch](https://youtu.be/IetOlGYS4zk) |
@@ -227,6 +233,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3454 | Separate Squares 2 | [Java](3001-4000/3454_separate_squares_2.java) | [Watch](https://youtu.be/Q3IaaYZzxDc) |
 | 3459 | Length Of Longest Vshaped Diagonal Segment | [Java](3001-4000/3459_length_of_longest_vshaped_diagonal_segment.java) | [Watch](https://youtu.be/FBi28L16rME) |
 | 3461 | Check If Digits Are Equal In String After Operations 1 | [Java](3001-4000/3461_check_if_digits_are_equal_in_string_after_operations_1.java) | [Watch](https://youtu.be/eEltFIiZSCk) |
+| 3474 | Lexicographically Smallest Generated String | [Java](3001-4000/3474_lexicographically_smallest_generated_string.java) | - |
 | 3484 | Design Spreadsheet | [Java](3001-4000/3484_design_spreadsheet.java) | [Watch](https://youtu.be/6xA3D_MNi8o) |
 | 3494 | Find The Minimum Amount Of Time To Brew Potions | [Java](3001-4000/3494_find_the_minimum_amount_of_time_to_brew_potions.java) | [Watch](https://youtu.be/nA5ELqfhRBs) |
 | 3495 | Minimum Operations To Make Array Elements Zero | [Java](3001-4000/3495_minimum_operations_to_make_array_elements_zero.java) | [Watch](https://youtu.be/1JbxhrLqwNs) |
@@ -256,6 +263,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3650 | Minimum Cost Path With Edge Reversals | [Java](3001-4000/3650_minimum_cost_path_with_edge_reversals.java) | [Watch](https://youtu.be/pe2FJg9f-3k) |
 | 3651 | Minimum Cost Path With Teleportations | [Java](3001-4000/3651_minimum_cost_path_with_teleportations.java) | [Watch](https://youtu.be/0CsBHtem_TE) |
 | 3652 | Best Time To Buy And Sell Stock Using Strategy | [Java](3001-4000/3652_best_time_to_buy_and_Sell_stock_using_strategy.java) | [Watch](https://youtu.be/e__ARPrrES4) |
+| 3661 | Maximum Walls Destroyed By Robots | [Java](3001-4000/3661_maximum_walls_destroyed_by_robots.java) | - |
 | 3674 | Minimum Operations To Equalize Array | [Java](3001-4000/3674_minimum_operations_to_equalize_array.java) | [Watch](https://youtu.be/NAwhqpKW2HU) |
 | 3675 | Minimum Operations To Transform String | [Java](3001-4000/3675_minimum_operations_to_transform_string.java) | [Watch](https://youtu.be/JGA8QJDfPFw) |
 | 3676 | Count Bowl Subarrays | [Java](3001-4000/3676_count_bowl_subarrays.java) | [Watch](https://youtu.be/Wp0uxnwUs50) |
