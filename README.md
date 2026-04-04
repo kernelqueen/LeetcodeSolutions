@@ -141,6 +141,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2043 | Simple Bank System | [Java](2001-3000/2043_simple_bank_system.java) | [Watch](https://youtu.be/bWzDybTrEDs) |
 | 2048 | Next Greater Numerically Balanced Number | [Java](2001-3000/2048_next_greater_numerically_balanced_number.java) | [Watch](https://youtu.be/_Ao-4SWm2WU) |
 | 2054 | Two Best Non Overlapping Events | [Java](2001-3000/2054_two_best_non_overlapping_events.java) | [Watch](https://youtu.be/JjZbGsw87A8) |
+| 2075 | Decode The Slanted Ciphertext | [Java](2001-3000/2075_decode_the_slanted_ciphertext.java) | - |
 | 2092 | Find All People With Secret | [Java](2001-3000/2092_find_all_people_with_secret.java) | [Watch](https://youtu.be/O0vgf-B52Po) |
 | 2110 | Number Of Smooth Decent Periods Of A Stock | [Java](2001-3000/2110_number_of_smooth_decent_periods_of_a_stock.java) | [Watch](https://youtu.be/lJqreIAWezc) |
 | 2125 | Number Of Laser Beams In A Bank | [Java](2001-3000/2125_number_of_laser_beams_in_a_bank.java) | [Watch](https://youtu.be/4FNtA0Dhv2s) |
