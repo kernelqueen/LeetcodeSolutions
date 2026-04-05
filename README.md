@@ -39,6 +39,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 474 | Ones And Zeroes | [Java](0001-1000/0474_ones_and_zeroes.java) | [Watch](https://youtu.be/FBRdjPlgJr0) |
 | 498 | Diagonal Traverse | [Java](0001-1000/0498_diagonal_traverse.java) | [Watch](https://youtu.be/U4HTd0HZ1Cw) |
 | 611 | Valid Triangle Number | [Java](0001-1000/0611_valid_triangle_number.java) | [Watch](https://youtu.be/JibhVrg0pX8) |
+| 657 | Robot Return To Origin | [Java](0001-1000/0657_robot_return_to_origin.java) | - |
 | 693 | Binary Number With Alternating Bits | [Java](0001-1000/0693_binary_number_with_alternating_bits.java) | - |
 | 696 | Count Binary Substrings | [Java](0001-1000/0696_count_binary_substrings.java) | - |
 | 712 | Minimum Ascii Delete Sum For Two Strings | [Java](0001-1000/0712_minimum_ascii_delete_sum_for_two_strings.java) | [Watch](https://youtu.be/-cwJl3iB4Oc) |
