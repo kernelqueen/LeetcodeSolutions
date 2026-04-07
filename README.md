@@ -54,6 +54,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 840 | Magic Squares In Grid | [Java](0001-1000/0840_magic_squares_in_grid.java) | [Watch](https://youtu.be/bTBhl-ihqdk) |
 | 865 | Smallest Subtree With All The Deepest Nodes | [Java](0001-1000/0865_smallest_subtree_with_all_the_deepest_nodes.java) | [Watch](https://youtu.be/ai2mgiZefn4) |
 | 868 | Binary Gap | [Java](0001-1000/0868_binary_gap.java) | - |
+| 874 | Walking Robot Simulation | [Java](0001-1000/0874_walking_robot_simulation.java) | - |
 | 944 | Delete Columns To Make Sorted | [Java](0001-1000/0944_delete_columns_to_make_sorted.java) | [Watch](https://youtu.be/tFn9krNGX5g) |
 | 955 | Delete Columns To Make Sorted 2 | [Java](0001-1000/0955_delete_columns_to_make_sorted_2.java) | [Watch](https://youtu.be/Ed1juWHthV0) |
 | 960 | Delete Columns To Make Sorted 3 | [Java](0001-1000/0960_delete_columns_to_make_sorted_3.java) | [Watch](https://youtu.be/iI2B9qZ_yEQ) |
@@ -142,6 +143,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2043 | Simple Bank System | [Java](2001-3000/2043_simple_bank_system.java) | [Watch](https://youtu.be/bWzDybTrEDs) |
 | 2048 | Next Greater Numerically Balanced Number | [Java](2001-3000/2048_next_greater_numerically_balanced_number.java) | [Watch](https://youtu.be/_Ao-4SWm2WU) |
 | 2054 | Two Best Non Overlapping Events | [Java](2001-3000/2054_two_best_non_overlapping_events.java) | [Watch](https://youtu.be/JjZbGsw87A8) |
+| 2069 | Walking Robot Simulation 2 | [Java](2001-3000/2069_walking_robot_simulation_2.java) | - |
 | 2075 | Decode The Slanted Ciphertext | [Java](2001-3000/2075_decode_the_slanted_ciphertext.java) | - |
 | 2092 | Find All People With Secret | [Java](2001-3000/2092_find_all_people_with_secret.java) | [Watch](https://youtu.be/O0vgf-B52Po) |
 | 2110 | Number Of Smooth Decent Periods Of A Stock | [Java](2001-3000/2110_number_of_smooth_decent_periods_of_a_stock.java) | [Watch](https://youtu.be/lJqreIAWezc) |
