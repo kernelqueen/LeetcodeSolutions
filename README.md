@@ -268,6 +268,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3651 | Minimum Cost Path With Teleportations | [Java](3001-4000/3651_minimum_cost_path_with_teleportations.java) | [Watch](https://youtu.be/0CsBHtem_TE) |
 | 3652 | Best Time To Buy And Sell Stock Using Strategy | [Java](3001-4000/3652_best_time_to_buy_and_Sell_stock_using_strategy.java) | [Watch](https://youtu.be/e__ARPrrES4) |
 | 3653 | Xor After Range Multiplication Queries 1 | [Java](3001-4000/3653_xor_after_range_multiplication_queries_1.java) | - |
+| 3655 | Xor After Range Multiplication Queries 2 | [Java](3001-4000/3655_xor_after_range_multiplication_queries_2.java) | - |
 | 3661 | Maximum Walls Destroyed By Robots | [Java](3001-4000/3661_maximum_walls_destroyed_by_robots.java) | - |
 | 3674 | Minimum Operations To Equalize Array | [Java](3001-4000/3674_minimum_operations_to_equalize_array.java) | [Watch](https://youtu.be/NAwhqpKW2HU) |
 | 3675 | Minimum Operations To Transform String | [Java](3001-4000/3675_minimum_operations_to_transform_string.java) | [Watch](https://youtu.be/JGA8QJDfPFw) |
