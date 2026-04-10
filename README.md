@@ -280,6 +280,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3714 | Longest Balanced Substring 2 | [Java](3001-4000/3714_longest_balanced_substring_2.java) | - |
 | 3719 | Longest Balanced Subarray 1 | [Java](3001-4000/3719_longest_balanced_subarray_1.java) | - |
 | 3721 | Longest Balanced Subarray 2 | [Java](3001-4000/3721_longest_balanced_subarray_2.java) | - |
+| 3740 | Minimum Distance Between Three Equal Elements 1 | [Java](3001-4000/3740_minimum_distance_between_three_equal_elements_1.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
