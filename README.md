@@ -84,6 +84,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1292 | Maximum Side Length Of A Square With Sum Less Than Or Equal To Threshold | [Java](1001-2000/1292_maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold.java) | [Watch](https://youtu.be/32JdudrW-2E) |
 | 1304 | Find N Unique Integers Sum Up To Zero | [Java](1001-2000/1304_find_n_unique_integers_sum_up_to_zero.java) | [Watch](https://youtu.be/VUOYUiX27pI) |
 | 1317 | Convert Integer To The Sum Of Two No Zero Integers | [Java](1001-2000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) | [Watch](https://youtu.be/GTMyUZsjM_I) |
+| 1320 | Minimum Distance To Type A Word Using Two Fingers | [Java](1001-2000/1320_minimum_distance_to_type_a_word_using_two_fingers.java) | - |
 | 1339 | Maximum Product Of A Splitted Binary Tree | [Java](1001-2000/1339_maximum_product_of_a_splitted_binary_tree.java) | [Watch](https://youtu.be/zGIGZ3GEsns) |
 | 1351 | Count Negative Numbers In A Sorted Matrix | [Java](1001-2000/1351_count_negative_numbers_in_a_sorted_matrix.java) | [Watch](https://youtu.be/l8k4IGwufyw) |
 | 1356 | Sort Integers By The Number Of 1 Bits | [Java](1001-2000/1356_sort_integers_by_the_number_of_1_bits.java) | - |
