@@ -118,6 +118,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1758 | Minimum Changes To Make Alternating Binary String | [Java](1001-2000/1758_minimum_changes_to_make_alternating_binary_string.java) | - |
 | 1784 | Check If Binary String Has At Most One Segement Of Ones | [Java](1001-2000/1784_check_if_binary_string_has_at_most_one_segement_of_ones.java) | - |
 | 1792 | Maximum Average Pass Ratio | [Java](1001-2000/1792_maximum_average_pass_ratio.java) | [Watch](https://youtu.be/ba-d6nNSCQ8n) |
+| 1848 | Minimum Distance To The Target Element | [Java](1001-2000/1848_minimum_distance_to_the_target_element.java) | - |
 | 1877 | Mimimize Maximum Pair Sum In Array | [Java](1001-2000/1877_mimimize_maximum_pair_sum_in_array.java) | [Watch](https://youtu.be/RDbN_Qnqlc0) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | [Java](1001-2000/1886_determine_whether_matrix_can_be_obtained_by_rotation.java) | - |
 | 1888 | Minimum Number Of Flips To Make The Binary String Alternating | [Java](1001-2000/1888_minimum_number_of_flips_to_make_the_binary_string_alternating.java) | - |
