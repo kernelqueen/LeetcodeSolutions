@@ -166,6 +166,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2435 | Paths In Matrix Whose Sum Is Divisible By K | [Java](2001-3000/2435_paths_in_matrix_whose_sum_is_divisible_by_k.java) | [Watch](https://youtu.be/qkgjWBhm-mA) |
 | 2463 | Minimum Total Distance Traveled | [Java](2001-3000/2463_minimum_total_distance_traveled.java) | - |
 | 2483 | Minimum Penalty For A Shop | [Java](2001-3000/2483_minimum_penalty_for_a_shop.java) | [Watch](https://youtu.be/r-XeXgRupM8) |
+| 2515 | Shortest Distance To Target String In A Cicular Array | [Java](2001-3000/2515_shortest_distance_to_target_string_in_a_cicular_array.java) | - |
 | 2528 | Maximize The Minimum Powered City | [Java](2001-3000/2528_maximize_the_minimum_powered_city.java) | [Watch](https://youtu.be/8xjUS1S1UpM) |
 | 2536 | Increment Submatrices By One | [Java](2001-3000/2536_increment_submatrices_by_one.java) | [Watch](https://youtu.be/ZKFR1yBYjIY) |
 | 2573 | Find The String With Lcp | [Java](2001-3000/2573_find_the_string_with_lcp.java) | - |
