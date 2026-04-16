@@ -243,6 +243,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3461 | Check If Digits Are Equal In String After Operations 1 | [Java](3001-4000/3461_check_if_digits_are_equal_in_string_after_operations_1.java) | [Watch](https://youtu.be/eEltFIiZSCk) |
 | 3474 | Lexicographically Smallest Generated String | [Java](3001-4000/3474_lexicographically_smallest_generated_string.java) | - |
 | 3484 | Design Spreadsheet | [Java](3001-4000/3484_design_spreadsheet.java) | [Watch](https://youtu.be/6xA3D_MNi8o) |
+| 3488 | Closest Equal Elements Queries | [Java](3001-4000/3488_closest_equal_elements_queries.java) | - |
 | 3494 | Find The Minimum Amount Of Time To Brew Potions | [Java](3001-4000/3494_find_the_minimum_amount_of_time_to_brew_potions.java) | [Watch](https://youtu.be/nA5ELqfhRBs) |
 | 3495 | Minimum Operations To Make Array Elements Zero | [Java](3001-4000/3495_minimum_operations_to_make_array_elements_zero.java) | [Watch](https://youtu.be/1JbxhrLqwNs) |
 | 3507 | Minimum Pair Removal To Sort Array 1 | [Java](3001-4000/3507_minimum_pair_removal_to_sort_array_1.java) | [Watch](https://youtu.be/pzvDOYOhTBI) |
