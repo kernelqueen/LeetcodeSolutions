@@ -287,6 +287,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3721 | Longest Balanced Subarray 2 | [Java](3001-4000/3721_longest_balanced_subarray_2.java) | - |
 | 3740 | Minimum Distance Between Three Equal Elements 1 | [Java](3001-4000/3740_minimum_distance_between_three_equal_elements_1.java) | - |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | [Java](3001-4000/3761_minimum_absolute_distance_between_mirror_pairs.java) | - |
+| 3783 | Mirror Distance Of An Integer | [Java](3001-4000/3783_mirror_distance_of_an_integer.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
