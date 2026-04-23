@@ -174,6 +174,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2536 | Increment Submatrices By One | [Java](2001-3000/2536_increment_submatrices_by_one.java) | [Watch](https://youtu.be/ZKFR1yBYjIY) |
 | 2573 | Find The String With Lcp | [Java](2001-3000/2573_find_the_string_with_lcp.java) | - |
 | 2598 | Smallest Missing Non Negative Integer After Operations | [Java](2001-3000/2598_smallest_missing_non_negative_integer_after_operations.java) | [Watch](https://youtu.be/XBwzPRQodUQ) |
+| 2615 | Sum Of Distances | [Java](2001-3000/2615_sum_of_distances.java) | - |
 | 2654 | Minimum Number Of Operations To Make All Array Elements Equal To1 | [Java](2001-3000/2654_minimum_number_of_operations_to_make_all_array_elements_equal_to1.java) | [Watch]() |
 | 2749 | Minimum Operations To Make The Integer Zero | [Java](2001-3000/2749_minimum_operations_to_make_the_integer_zero.java) | [Watch](https://youtu.be/l3eJ2olhL5I) |
 | 2751 | Robot Collisions | [Java](2001-3000/2751_robot_collisions.java) | - |
