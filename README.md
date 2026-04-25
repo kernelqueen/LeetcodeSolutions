@@ -179,6 +179,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2749 | Minimum Operations To Make The Integer Zero | [Java](2001-3000/2749_minimum_operations_to_make_the_integer_zero.java) | [Watch](https://youtu.be/l3eJ2olhL5I) |
 | 2751 | Robot Collisions | [Java](2001-3000/2751_robot_collisions.java) | - |
 | 2785 | Sort Vowels In A String | [Java](2001-3000/2785_sort_vowels_in_a_string.java) | [Watch](https://youtu.be/TvDuo7U4I1M) |
+| 2833 | Furthest Point From Origin | [Java](2001-3000/2833_furthest_point_from_origin.java) | - |
 | 2839 | Check If Strings Can Be Made Equal With Operations 1 | [Java](2001-3000/2839_check_if_strings_can_be_made_equal_with_operations_1.java) | - |
 | 2840 | Check If Strings Can Be Made Equal With Operations 2 | [Java](2001-3000/2840_check_if_strings_can_be_made_equal_with_operations_2.java) | - |
 | 2872 | Maximum Number Of K Divisible Components | [Java](2001-3000/2872_maximum_number_of_k_divisible_components.java) | [Watch](https://youtu.be/f9vDTkK2KBg) |
@@ -245,6 +246,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3454 | Separate Squares 2 | [Java](3001-4000/3454_separate_squares_2.java) | [Watch](https://youtu.be/Q3IaaYZzxDc) |
 | 3459 | Length Of Longest Vshaped Diagonal Segment | [Java](3001-4000/3459_length_of_longest_vshaped_diagonal_segment.java) | [Watch](https://youtu.be/FBi28L16rME) |
 | 3461 | Check If Digits Are Equal In String After Operations 1 | [Java](3001-4000/3461_check_if_digits_are_equal_in_string_after_operations_1.java) | [Watch](https://youtu.be/eEltFIiZSCk) |
+| 3464 | Maximize The Distance Between Points On A Square | [Java](3001-4000/3464_maximize_the_distance_between_points_on_a_square.java) | - |
 | 3474 | Lexicographically Smallest Generated String | [Java](3001-4000/3474_lexicographically_smallest_generated_string.java) | - |
 | 3484 | Design Spreadsheet | [Java](3001-4000/3484_design_spreadsheet.java) | [Watch](https://youtu.be/6xA3D_MNi8o) |
 | 3488 | Closest Equal Elements Queries | [Java](3001-4000/3488_closest_equal_elements_queries.java) | - |
