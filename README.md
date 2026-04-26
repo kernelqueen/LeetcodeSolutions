@@ -103,6 +103,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1526 | Minimum Number Of Increments On Subarrays To Form A Target Array | [Java](1001-2000/1526_minimum_number_of_increments_on_subarrays_to_form_a_target_array.java) | [Watch](https://youtu.be/7PZZTid-PEc) |
 | 1536 | Minimum Swaps To Arrange A Binary Grid | [Java](1001-2000/1536_minimum_swaps_to_arrange_a_binary_grid.java) | - |
 | 1545 | Find Kth Bit In Nth Binary String | [Java](1001-2000/1545_find_kth_bit_in_nth_binary_string.java) | - |
+| 1559 | Detect Cycles In 2D Grid | [Java](1001-2000/1559_detect_cycles_in_2d_grid.java) | - |
 | 1578 | Minimum Time To Make Rope Colorful | [Java](1001-2000/1578_minimum_time_to_make_rope_colorful.java) | [Watch](https://youtu.be/n93YcylrgcM) |
 | 1582 | Special Positions In A Binary Matrix | [Java](1001-2000/1582_special_positions_in_a_binary_matrix.java) | - |
 | 1590 | Make Some Divisible By P | [Java](1001-2000/1590_make_some_divisible_by_p.java) | [Watch](https://youtu.be/o9HUMQF4T4k) |
