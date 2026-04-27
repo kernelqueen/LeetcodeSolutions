@@ -90,6 +90,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1356 | Sort Integers By The Number Of 1 Bits | [Java](1001-2000/1356_sort_integers_by_the_number_of_1_bits.java) | - |
 | 1382 | Balance A Binary Search Tree | [Java](1001-2000/1382_balance_a_binary_search_tree.java) | - |
 | 1390 | Four Divisors | [Java](1001-2000/1390_four_divisors.java) | [Watch](https://youtu.be/_VHtYKIvVw8) |
+| 1391 | Check If There Is A Valid Path In A Grid | [Java](1001-2000/1391_check_if_there_is_a_valid_path_in_a_grid.java) | - |
 | 1411 | Number Of Ways To Paint Nx3 Grid | [Java](1001-2000/1411_number_of_ways_to_paint_nx3_grid.java) | [Watch](https://youtu.be/i3ahuTWtigs) |
 | 1437 | Check If All 1S Are At Least Length K Places Away | [Java](1001-2000/1437_check_if_all_1s_are_at_least_length_k_places_away.java) | [Watch](https://youtu.be/8DAGYg0TnjQ) |
 | 1458 | Max Dot Product Of Two Subsequences | [Java](1001-2000/1458_max_dot_product_of_two_subsequences.java) | [Watch](https://youtu.be/hYQlmMJdBPo) |
