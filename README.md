@@ -146,6 +146,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | # | Title | Solution | Video |
 |---|-------|----------|-------|
 | 2011 | Final Value Of Variable After Performing Operations | [Java](2001-3000/2011_final_value_of_variable_after_performing_operations.java) | [Watch](https://youtu.be/A0y3XjQ_jrA) |
+| 2033 | Minimum Operations To Make A Uni Value Grid | [Java](2001-3000/2033_minimum_operations_to_make_a_uni_value_grid.java) | - |
 | 2043 | Simple Bank System | [Java](2001-3000/2043_simple_bank_system.java) | [Watch](https://youtu.be/bWzDybTrEDs) |
 | 2048 | Next Greater Numerically Balanced Number | [Java](2001-3000/2048_next_greater_numerically_balanced_number.java) | [Watch](https://youtu.be/_Ao-4SWm2WU) |
 | 2054 | Two Best Non Overlapping Events | [Java](2001-3000/2054_two_best_non_overlapping_events.java) | [Watch](https://youtu.be/JjZbGsw87A8) |
