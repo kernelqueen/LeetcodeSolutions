@@ -224,6 +224,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3197 | Find The Minimum Area To Cover All Ones 2 | [Java](3001-4000/3197_find_the_minimum_area_to_cover_all_ones_2.java) | [Watch](https://youtu.be/X8FnwUP5RL4) |
 | 3212 | Count Submatrices With Equal Frequency Of X And Y | [Java](3001-4000/3212_count_submatrices_with_equal_frequency_of_x_and_y.java) | - |
 | 3217 | Delete Nodes From Linked List Present In Array | [Java](3001-4000/3217_delete_nodes_from_linked_list_present_in_array.java) | [Watch](https://youtu.be/K-U3QhAJE2s) |
+| 3225 | Maximum Score From Grid Operations | [Java](3001-4000/3225_maximum_score_from_grid_operations.java) | - |
 | 3227 | Vowels Game In A String | [Java](3001-4000/3227_vowels_game_in_a_string.java) | [Watch](https://youtu.be/u7dE7KmiuGA) |
 | 3228 | Maximum Number Of Operations To Move Ones To The End | [Java](3001-4000/3228_maximum_number_of_operations_to_move_ones_to_the_end.java) | [Watch](https://youtu.be/eUUivwnjgpU) |
 | 3289 | The Two Sneaky Numbers Of Digitville | [Java](3001-4000/3289_the_two_sneaky_numbers_of_digitville.java) | [Watch](https://youtu.be/hRL50D2v5G4) |
