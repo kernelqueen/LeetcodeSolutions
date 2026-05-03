@@ -51,6 +51,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 762 | Prime Number Of Set Bits In Binary Representation | [Java](0001-1000/0762_prime_number_of_Set_bits_in_binary_representation.java) | - |
 | 778 | Swim In Rising Water | [Java](0001-1000/0778_swim_in_rising_water.java) | [Watch](https://youtu.be/vVcod2nDazo) |
 | 788 | Rotated Digits | [Java](0001-1000/0788_rotated_digits.java) | - |
+| 796 | Rotate String | [Java](0001-1000/0796_rotate_string.java) | - |
 | 799 | Champagne Tower | [Java](0001-1000/0799_champagne_tower.java) | - |
 | 812 | Largest Triangle Area | [Java](0001-1000/0812_largest_triangle_area.java) | [Watch](https://youtu.be/mx2ErtASZN8) |
 | 840 | Magic Squares In Grid | [Java](0001-1000/0840_magic_squares_in_grid.java) | [Watch](https://youtu.be/bTBhl-ihqdk) |
