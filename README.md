@@ -26,6 +26,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 36 | Valid Sudoku | [Java](0001-1000/0036_valid_sudoku.java) | [Watch](https://youtu.be/5XiAi399_Nk) |
 | 37 | Sudoku Solver | [Java](0001-1000/0037_sudoku_solver.java) | [Watch](https://youtu.be/DeDTjUM8iIU) |
 | 48 | Rotate Image | [Java](0001-1000/0048_rotate_image.java) | - |
+| 61 | Rotate List | [Java](0001-1000/0061_rotate_list.java) | - |
 | 66 | Plus One | [Java](0001-1000/0066_plus_one.java) | [Watch](https://youtu.be/cJ7FQYCwfkk) |
 | 67 | Add Binary | [Java](0001-1000/0067_add_binary.java) | - |
 | 85 | Maximal Rectangle | [Java](0001-1000/0085_maximal_rectangle.java) | [Watch](https://youtu.be/wHF549KKh3k) |
