@@ -31,10 +31,3 @@ class Solution {
         return ans;
     }
 }
-/*
-
-
-
-
-
-*/
