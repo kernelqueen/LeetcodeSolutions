@@ -134,6 +134,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1888 | Minimum Number Of Flips To Make The Binary String Alternating | [Java](1001-2000/1888_minimum_number_of_flips_to_make_the_binary_string_alternating.java) | - |
 | 1895 | Largest Magic Square | [Java](1001-2000/1895_largest_magic_square.java) | [Watch](https://youtu.be/pmBVK4Clb8k) |
 | 1912 | Design Movie Rental System | [Java](1001-2000/1912_design_movie_rental_system.java) | [Watch](https://youtu.be/acwizX111iU) |
+| 1914 | Cyclically Rotating A Grid | [Java](1001-2000/1914_cyclically_rotating_a_grid.java) | - |
 | 1925 | Count Square Sum Triplets | [Java](1001-2000/1925_count_square_sum_triplets.java) | [Watch](https://youtu.be/Fr7WfgCeEFg) |
 | 1930 | Unique Length 3 Palindromic Subsequences | [Java](1001-2000/1930_unique_length_3_palindromic_subsequences.java) | [Watch](https://youtu.be/J4gLfPGxOJ4) |
 | 1935 | Maximum Number Of Words You Can Type | [Java](1001-2000/1935_maximum_number_of_words_you_can_type.java) | [Watch](https://youtu.be/pPCbpVmE51k) |
@@ -281,6 +282,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3607 | Power Grid Maintenance | [Java](3001-4000/3607_power_grid_maintenance.java) | [Watch](https://youtu.be/B18kdsHEg9U) |
 | 3623 | Count Number Of Trapezoids 1 | [Java](3001-4000/3623_count_number_of_trapezoids_1.java) | [Watch](https://youtu.be/w5-bV9rf-MQ) |
 | 3625 | Count Number Of Trapezoids 2 | [Java](3001-4000/3625_count_number_of_trapezoids_2.java) | [Watch](https://youtu.be/tGplljOW_CM) |
+| 3629 | Minimum Jumps To Reach End Via Prime Teleportation | [Java](3001-4000/3629_minimum_jumps_to_reach_end_via_prime_teleportation.java) | - |
 | 3634 | Minimum Removals To Balance Array | [Java](3001-4000/3634_minimum_removals_to_balance_array.java) | - |
 | 3637 | Trionic Array 1 | [Java](3001-4000/3637_trionic_array_1.java) | - |
 | 3640 | Trionic Array 2 | [Java](3001-4000/3640_trionic_array_2.java) | - |
@@ -290,6 +292,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3652 | Best Time To Buy And Sell Stock Using Strategy | [Java](3001-4000/3652_best_time_to_buy_and_Sell_stock_using_strategy.java) | [Watch](https://youtu.be/e__ARPrrES4) |
 | 3653 | Xor After Range Multiplication Queries 1 | [Java](3001-4000/3653_xor_after_range_multiplication_queries_1.java) | - |
 | 3655 | Xor After Range Multiplication Queries 2 | [Java](3001-4000/3655_xor_after_range_multiplication_queries_2.java) | - |
+| 3660 | Jump Game Ix | [Java](3001-4000/3660_jump_game_IX.java) | - |
 | 3661 | Maximum Walls Destroyed By Robots | [Java](3001-4000/3661_maximum_walls_destroyed_by_robots.java) | - |
 | 3674 | Minimum Operations To Equalize Array | [Java](3001-4000/3674_minimum_operations_to_equalize_array.java) | [Watch](https://youtu.be/NAwhqpKW2HU) |
 | 3675 | Minimum Operations To Transform String | [Java](3001-4000/3675_minimum_operations_to_transform_string.java) | [Watch](https://youtu.be/JGA8QJDfPFw) |
