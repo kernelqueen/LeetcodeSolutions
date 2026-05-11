@@ -182,6 +182,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2515 | Shortest Distance To Target String In A Cicular Array | [Java](2001-3000/2515_shortest_distance_to_target_string_in_a_cicular_array.java) | - |
 | 2528 | Maximize The Minimum Powered City | [Java](2001-3000/2528_maximize_the_minimum_powered_city.java) | [Watch](https://youtu.be/8xjUS1S1UpM) |
 | 2536 | Increment Submatrices By One | [Java](2001-3000/2536_increment_submatrices_by_one.java) | [Watch](https://youtu.be/ZKFR1yBYjIY) |
+| 2553 | Separate The Digits In An Array | [Java](2001-3000/2553_separate_the_digits_in_an_array.java) | - |
 | 2573 | Find The String With Lcp | [Java](2001-3000/2573_find_the_string_with_lcp.java) | - |
 | 2598 | Smallest Missing Non Negative Integer After Operations | [Java](2001-3000/2598_smallest_missing_non_negative_integer_after_operations.java) | [Watch](https://youtu.be/XBwzPRQodUQ) |
 | 2615 | Sum Of Distances | [Java](2001-3000/2615_sum_of_distances.java) | - |
