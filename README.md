@@ -66,6 +66,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 961 | N-Repeated Element In Size 2N Array | [Java](0001-1000/0961_n-repeated_element_in_size_2n_array.java) | [Watch](https://youtu.be/wPC7mevoLc4) |
 | 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) | [Watch](https://youtu.be/DL133nQ1qJQ) |
 | 976 | Largest Perimeter Triangle | [Java](0001-1000/0976_largest_perimeter_triangle.java) | [Watch](https://youtu.be/fo5RQ9HESIk) |
+| 1665 | Minimum Initial Energy To Finish Tasks | [Java](0001-1000/1665_minimum_initial_energy_to_finish_tasks.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
