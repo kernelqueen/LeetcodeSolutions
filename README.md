@@ -66,7 +66,6 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 961 | N-Repeated Element In Size 2N Array | [Java](0001-1000/0961_n-repeated_element_in_size_2n_array.java) | [Watch](https://youtu.be/wPC7mevoLc4) |
 | 966 | Vowel Spellchecker | [Java](0001-1000/0966_vowel_spellchecker.java) | [Watch](https://youtu.be/DL133nQ1qJQ) |
 | 976 | Largest Perimeter Triangle | [Java](0001-1000/0976_largest_perimeter_triangle.java) | [Watch](https://youtu.be/fo5RQ9HESIk) |
-| 1665 | Minimum Initial Energy To Finish Tasks | [Java](0001-1000/1665_minimum_initial_energy_to_finish_tasks.java) | - |
 
 
 [🔼 Back to Top](#leetcode-solutions-number-wise)
@@ -118,6 +117,8 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1611 | Minimum One Bit Operations To Make Integers Zero | [Java](1001-2000/1611_minimum_one_bit_operations_to_make_integers_zero.java) | [Watch](https://youtu.be/h9Gi2JFfO6A) |
 | 1625 | Lexicographically Smallest String After Applying Operations | [Java](1001-2000/1625_lexicographically_smallest_string_after_applying_operations.java) | [Watch](https://youtu.be/_XIpqogafRM) |
 | 1653 | Minimum Deletions To Make String Balanced | [Java](1001-2000/1653_minimum_deletions_to_make_string_balanced.java) | - |
+| 1665 | Minimum Initial Energy To Finish Tasks | [Java](1001-2000/1665_minimum_initial_energy_to_finish_tasks.java) | - |
+| 1674 | Minimum Moves To Make Array Complementary | [Java](1001-2000/1674_minimum_moves_to_make_array_complementary.java) | - |
 | 1680 | Concatenation Of Consecutive Binary Numbers | [Java](1001-2000/1680_concatenation_of_consecutive_binary_numbers.java) | - |
 | 1689 | Partitioning Into Minimum Numbers Of Deci Binary Numbers | [Java](1001-2000/1689_partitioning_into_minimum_numbers_of_deci_binary_numbers.java) | - |
 | 1716 | Calculate Money In Leetcode Bank | [Java](1001-2000/1716_calculate_money_in_leetcode_bank.java) | [Watch](https://youtu.be/H9bGJVdqLEM) |
