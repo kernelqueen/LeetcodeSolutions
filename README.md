@@ -192,6 +192,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 2749 | Minimum Operations To Make The Integer Zero | [Java](2001-3000/2749_minimum_operations_to_make_the_integer_zero.java) | [Watch](https://youtu.be/l3eJ2olhL5I) |
 | 2751 | Robot Collisions | [Java](2001-3000/2751_robot_collisions.java) | - |
 | 2770 | Maximum Number Of Jumps To Reach The Last Index | [Java](2001-3000/2770_maximum_number_of_jumps_to_reach_the_last_index.java) | - |
+| 2784 | Check If Array Is Good | [Java](2001-3000/2784_check_if_array_is_good.java) | - |
 | 2785 | Sort Vowels In A String | [Java](2001-3000/2785_sort_vowels_in_a_string.java) | [Watch](https://youtu.be/TvDuo7U4I1M) |
 | 2833 | Furthest Point From Origin | [Java](2001-3000/2833_furthest_point_from_origin.java) | - |
 | 2839 | Check If Strings Can Be Made Equal With Operations 1 | [Java](2001-3000/2839_check_if_strings_can_be_made_equal_with_operations_1.java) | - |
