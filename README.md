@@ -32,6 +32,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 85 | Maximal Rectangle | [Java](0001-1000/0085_maximal_rectangle.java) | [Watch](https://youtu.be/wHF549KKh3k) |
 | 110 | Balanced Binary Tree | [Java](0001-1000/0110_balanced_binary_tree.java) | - |
 | 120 | Triangle | [Java](0001-1000/0120_triangle.java) | [Watch](https://youtu.be/IT7iwZOznHs) |
+| 153 | Find Minimum In Rotated Sorted Array | [Java](0001-1000/0153_find_minimum_in_rotated_sorted_array.java) | - |
 | 165 | Compare Version Numbers | [Java](0001-1000/0165_compare_version_numbers.java) | [Watch](https://youtu.be/Gun-2gvTDo0) |
 | 166 | Fraction To Recurring Decimal | [Java](0001-1000/0166_fraction_to_recurring_decimal.java) | [Watch](https://youtu.be/tosMISGU0k4) |
 | 190 | Reverse Bits | [Java](0001-1000/0190_reverse_bits.java) | - |
