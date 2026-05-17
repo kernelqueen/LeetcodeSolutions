@@ -33,6 +33,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 110 | Balanced Binary Tree | [Java](0001-1000/0110_balanced_binary_tree.java) | - |
 | 120 | Triangle | [Java](0001-1000/0120_triangle.java) | [Watch](https://youtu.be/IT7iwZOznHs) |
 | 153 | Find Minimum In Rotated Sorted Array | [Java](0001-1000/0153_find_minimum_in_rotated_sorted_array.java) | - |
+| 154 | Find Minimum In Rotated Sorted Array 2 | [Java](0001-1000/0154_find_minimum_in_rotated_sorted_array_2.java) | - |
 | 165 | Compare Version Numbers | [Java](0001-1000/0165_compare_version_numbers.java) | [Watch](https://youtu.be/Gun-2gvTDo0) |
 | 166 | Fraction To Recurring Decimal | [Java](0001-1000/0166_fraction_to_recurring_decimal.java) | [Watch](https://youtu.be/tosMISGU0k4) |
 | 190 | Reverse Bits | [Java](0001-1000/0190_reverse_bits.java) | - |
@@ -89,6 +90,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1277 | Count Square Submatrices With All Ones | [Java](1001-2000/1277_count_square_submatrices_with_all_ones.java) | [Watch](https://youtu.be/kPsUlWV5vHA) |
 | 1292 | Maximum Side Length Of A Square With Sum Less Than Or Equal To Threshold | [Java](1001-2000/1292_maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold.java) | [Watch](https://youtu.be/32JdudrW-2E) |
 | 1304 | Find N Unique Integers Sum Up To Zero | [Java](1001-2000/1304_find_n_unique_integers_sum_up_to_zero.java) | [Watch](https://youtu.be/VUOYUiX27pI) |
+| 1306 | Jump Game 3 | [Java](1001-2000/1306_jump_game_3.java) | - |
 | 1317 | Convert Integer To The Sum Of Two No Zero Integers | [Java](1001-2000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) | [Watch](https://youtu.be/GTMyUZsjM_I) |
 | 1320 | Minimum Distance To Type A Word Using Two Fingers | [Java](1001-2000/1320_minimum_distance_to_type_a_word_using_two_fingers.java) | - |
 | 1339 | Maximum Product Of A Splitted Binary Tree | [Java](1001-2000/1339_maximum_product_of_a_splitted_binary_tree.java) | [Watch](https://youtu.be/zGIGZ3GEsns) |
