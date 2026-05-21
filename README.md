@@ -228,6 +228,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 3021 | Alice And Bob Playing Flower Game | [Java](3001-4000/3021_alice_and_bob_playing_flower_game.java) | [Watch](https://youtu.be/LRhUaPMbNyI) |
 | 3025 | Find The Number Of Ways To Place People 1 | [Java](3001-4000/3025_find_the_number_of_ways_to_place_people_1.java) | [Watch](https://youtu.be/BnmGSG2wZo8) |
 | 3027 | Find The Number Of Ways To Place People 2 | [Java](3001-4000/3027_find_the_number_of_ways_to_place_people_2.java) | [Watch](https://youtu.be/uEY7hT8dlmM) |
+| 3043 | Find The Length Of The Longest Common Prefix | [Java](3001-4000/3043_find_the_length_of_the_longest_common_prefix.java) | - |
 | 3047 | Find The Largest Area Of Square Inside Two Rectangles | [Java](3001-4000/3047_find_the_largest_area_of_square_inside_two_rectangles.java) | [Watch](https://youtu.be/S8D4joXkEG4) |
 | 3070 | Count Subatrices With Top Left Elememt And Sum Less Than K | [Java](3001-4000/3070_count_subatrices_with_top_left_elememt_and_sum_less_than_k.java) | - |
 | 3074 | Apple Redistribution Into Boxes | [Java](3001-4000/3074_apple_redistribution_into_boxes.java) | [Watch](https://youtu.be/VKhVI_S764k) |
