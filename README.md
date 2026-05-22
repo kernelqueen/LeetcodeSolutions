@@ -23,6 +23,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | # | Title | Solution | Video |
 |---|-------|----------|-------|
 | 11 | Container With Most Water | [Java](0001-1000/0011_container_with_most_water.java) | [Watch](https://youtu.be/HU7AvJpS5r8) |
+| 33 | Search In Rotated Sorted Array | [Java](0001-1000/0033_search_in_rotated_sorted_array.java) | - |
 | 36 | Valid Sudoku | [Java](0001-1000/0036_valid_sudoku.java) | [Watch](https://youtu.be/5XiAi399_Nk) |
 | 37 | Sudoku Solver | [Java](0001-1000/0037_sudoku_solver.java) | [Watch](https://youtu.be/DeDTjUM8iIU) |
 | 48 | Rotate Image | [Java](0001-1000/0048_rotate_image.java) | - |
