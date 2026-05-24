@@ -95,6 +95,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1317 | Convert Integer To The Sum Of Two No Zero Integers | [Java](1001-2000/1317_convert_integer_to_the_sum_of_two_no_zero_integers.java) | [Watch](https://youtu.be/GTMyUZsjM_I) |
 | 1320 | Minimum Distance To Type A Word Using Two Fingers | [Java](1001-2000/1320_minimum_distance_to_type_a_word_using_two_fingers.java) | - |
 | 1339 | Maximum Product Of A Splitted Binary Tree | [Java](1001-2000/1339_maximum_product_of_a_splitted_binary_tree.java) | [Watch](https://youtu.be/zGIGZ3GEsns) |
+| 1340 | Jump Game V | [Java](1001-2000/1340_jump_game_v.java) | - |
 | 1345 | Jump Game 4 | [Java](1001-2000/1345_jump_game_4.java) | - |
 | 1351 | Count Negative Numbers In A Sorted Matrix | [Java](1001-2000/1351_count_negative_numbers_in_a_sorted_matrix.java) | [Watch](https://youtu.be/l8k4IGwufyw) |
 | 1356 | Sort Integers By The Number Of 1 Bits | [Java](1001-2000/1356_sort_integers_by_the_number_of_1_bits.java) | - |
