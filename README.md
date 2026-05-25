@@ -138,6 +138,7 @@ Checkout the full walkthrough and solution discussion in Hindi on my [YouTube Ch
 | 1848 | Minimum Distance To The Target Element | [Java](1001-2000/1848_minimum_distance_to_the_target_element.java) | - |
 | 1855 | Maximum Distance Between A Pair Of Elements | [Java](1001-2000/1855_maximum_distance_between_a_pair_of_elements.java) | - |
 | 1861 | Rotating The Box | [Java](1001-2000/1861_rotating_the_box.java) | - |
+| 1871 | Jump Game 7 | [Java](1001-2000/1871_jump_game_7.java) | - |
 | 1877 | Mimimize Maximum Pair Sum In Array | [Java](1001-2000/1877_mimimize_maximum_pair_sum_in_array.java) | [Watch](https://youtu.be/RDbN_Qnqlc0) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | [Java](1001-2000/1886_determine_whether_matrix_can_be_obtained_by_rotation.java) | - |
 | 1888 | Minimum Number Of Flips To Make The Binary String Alternating | [Java](1001-2000/1888_minimum_number_of_flips_to_make_the_binary_string_alternating.java) | - |
