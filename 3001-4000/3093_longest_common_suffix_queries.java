@@ -49,7 +49,7 @@ class Trie {
                 node.children[ch] = new TrieNode();
             node = node.children[ch];
 
-            if (strLen < node.len || (strLen == node.len && ind < node.index)) {
+            if (strLen < node.len) {
                 node.len = strLen;
                 node.index = ind;
             }
