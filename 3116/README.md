@@ -244,9 +244,9 @@ For more than two denominations, we use the **Inclusion-Exclusion Principle**.
 
 For every non-empty subset of coins:
 
-* If the subset contains an odd number of coins, add its contribution.
-* If the subset contains an even number of coins, subtract its contribution.
-* The contribution is the number of multiples of the LCM of the selected coins.
+- If the subset contains an odd number of coins, add its contribution.
+- If the subset contains an even number of coins, subtract its contribution.
+- The contribution is the number of multiples of the LCM of the selected coins.
 
 For a subset with LCM `L`:
 
